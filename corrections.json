@@ -1,0 +1,1484 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 94,
+  "changes": [
+    {
+      "image": 3,
+      "side": "left",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "血脈",
+      "after": "血脉",
+      "reason": "原刻右部近永，保留脉形。",
+      "source_bbox": [
+        642,
+        466,
+        734,
+        1140
+      ],
+      "offset": [
+        7,
+        9
+      ],
+      "source_image_sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "locate-seals",
+      "before": "上下朱印待分",
+      "after": "定位四枚朱印及第3空欄",
+      "reason": "依固定原圖分記物理位置與轉錄欄號。",
+      "source_image_sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 9",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3"
+    },
+    {
+      "image": 4,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "67cdaa824d2eeb56eac6277379f592cd5e7a536a553fe673bb133eab5ab4a246",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/4"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "67cdaa824d2eeb56eac6277379f592cd5e7a536a553fe673bb133eab5ab4a246",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/4"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 7,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁第七欄下方雙行小注",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "2ede1f0761f9800dae6f62c3bee46a9182325a58aa3bd14f9c4e347c108bf04a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/5"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "2ede1f0761f9800dae6f62c3bee46a9182325a58aa3bd14f9c4e347c108bf04a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/5"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁首欄末小字",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "2ede1f0761f9800dae6f62c3bee46a9182325a58aa3bd14f9c4e347c108bf04a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/5"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "2ede1f0761f9800dae6f62c3bee46a9182325a58aa3bd14f9c4e347c108bf04a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/5"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "二盛二變",
+      "after": "三盛二變",
+      "reason": "道下見三道分立橫畫，末橫近盛字上緣。",
+      "source_bbox": [
+        1754,
+        932,
+        1859,
+        1310
+      ],
+      "offset": [
+        11,
+        15
+      ],
+      "source_image_sha256": "658e8dfa85249868ae5ee2a2535d68aff8209bda5d00fabf8f304e7eb471a5e8",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 4,
+      "kind": "main",
+      "op": "replace",
+      "before": "者二百年",
+      "after": "者三百年",
+      "reason": "者下的數字有三個等距橫筆。",
+      "source_bbox": [
+        820,
+        455,
+        925,
+        765
+      ],
+      "offset": [
+        0,
+        4
+      ],
+      "source_image_sha256": "658e8dfa85249868ae5ee2a2535d68aff8209bda5d00fabf8f304e7eb471a5e8",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "658e8dfa85249868ae5ee2a2535d68aff8209bda5d00fabf8f304e7eb471a5e8",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "658e8dfa85249868ae5ee2a2535d68aff8209bda5d00fabf8f304e7eb471a5e8",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f06643837402340bee81ece597494ddf689cb0144d4255f0de7d823c0278ced5",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/7"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f06643837402340bee81ece597494ddf689cb0144d4255f0de7d823c0278ced5",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/7"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "01ba63c74b36b9e9942dd0c45923d72525731c8566bb54d7729a83a72f311a89",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/8"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "01ba63c74b36b9e9942dd0c45923d72525731c8566bb54d7729a83a72f311a89",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/8"
+    },
+    {
+      "image": 9,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "7375ba78bc3f4e2b2ae67eb374871840b2c69c79a1485d41aa0a2e4ee45e3810",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/9"
+    },
+    {
+      "image": 9,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "7375ba78bc3f4e2b2ae67eb374871840b2c69c79a1485d41aa0a2e4ee45e3810",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/9"
+    },
+    {
+      "image": 10,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "5b6dcef869828a15a9ddced17e9c795f141caa966727c2b14547eab5e20fb1fc",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/10"
+    },
+    {
+      "image": 10,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "5b6dcef869828a15a9ddced17e9c795f141caa966727c2b14547eab5e20fb1fc",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/10"
+    },
+    {
+      "image": 11,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "07ee6e68270fe161e8fb4d1191619d0073ab4b6a7230453d5120416241cea49a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/11"
+    },
+    {
+      "image": 11,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "07ee6e68270fe161e8fb4d1191619d0073ab4b6a7230453d5120416241cea49a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/11"
+    },
+    {
+      "image": 12,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "cb968750a0c9895dd7e9152cd9e1314c2766d81f1854d75dc58f419afaa5b558",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/12"
+    },
+    {
+      "image": 12,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁外欄版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "cb968750a0c9895dd7e9152cd9e1314c2766d81f1854d75dc58f419afaa5b558",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/12"
+    },
+    {
+      "image": 13,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右九小字（經腧選下）",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "a2e3ea3aa0926671de69fcbb756d4fb1efabd8fce99eba2443e1492c5c9fb00a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13"
+    },
+    {
+      "image": 13,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "a2e3ea3aa0926671de69fcbb756d4fb1efabd8fce99eba2443e1492c5c9fb00a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "a2e3ea3aa0926671de69fcbb756d4fb1efabd8fce99eba2443e1492c5c9fb00a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13"
+    },
+    {
+      "image": 14,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "7c02a5179643ea62369b9ead7cae7369f4210fe0ba948ae0676645a6a8443f04",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/14"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "7c02a5179643ea62369b9ead7cae7369f4210fe0ba948ae0676645a6a8443f04",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/14"
+    },
+    {
+      "image": 15,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "0c42a7db9b4e93ab8f8fe991446e5f36a38847ffb0a0432af6b472c2aa494ff4",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/15"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "0c42a7db9b4e93ab8f8fe991446e5f36a38847ffb0a0432af6b472c2aa494ff4",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/15"
+    },
+    {
+      "image": 16,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "9ad01325b8442ac43b198cfc4cb1ca9e0d7944fce25c7f52865bd29e6e758404",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/16"
+    },
+    {
+      "image": 16,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "9ad01325b8442ac43b198cfc4cb1ca9e0d7944fce25c7f52865bd29e6e758404",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/16"
+    },
+    {
+      "image": 17,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "36811ab5582cf80e1b8409a74b1f3042f869fba71abdf7d91dc4d16bf673c245",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/17"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "36811ab5582cf80e1b8409a74b1f3042f869fba71abdf7d91dc4d16bf673c245",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/17"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "診遂廢",
+      "after": "胗遂廢",
+      "reason": "原刻字左月右㐱。",
+      "source_bbox": [
+        2180,
+        425,
+        2300,
+        1675
+      ],
+      "offset": [
+        0,
+        3
+      ],
+      "source_image_sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "診昉自",
+      "after": "胗昉自",
+      "reason": "同欄再見月旁與㐱的原刻形。",
+      "source_bbox": [
+        2180,
+        425,
+        2300,
+        1675
+      ],
+      "offset": [
+        12,
+        15
+      ],
+      "source_image_sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "診法大備",
+      "after": "胗法大備",
+      "reason": "左部為月，末點與欄旁返點分辨。",
+      "source_bbox": [
+        1722,
+        812,
+        1820,
+        1130
+      ],
+      "offset": [
+        8,
+        12
+      ],
+      "source_image_sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18"
+    },
+    {
+      "image": 18,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18"
+    },
+    {
+      "image": 19,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "de47f93b9492ce756db0a8b5fd2b6c8ed78a760e986d00740b1e8005512ba5ed",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/19"
+    },
+    {
+      "image": 19,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "de47f93b9492ce756db0a8b5fd2b6c8ed78a760e986d00740b1e8005512ba5ed",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/19"
+    },
+    {
+      "image": 20,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "56509ae8f05ad52df8770ac0260160042d483a524e2b78d0ca2a440d755ea6b5",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/20"
+    },
+    {
+      "image": 20,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "56509ae8f05ad52df8770ac0260160042d483a524e2b78d0ca2a440d755ea6b5",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/20"
+    },
+    {
+      "image": 21,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "5ce4e2bb7cd74a2e960b72764ffc1241f8f17f914762f145ec5d63346d35c3e1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/21"
+    },
+    {
+      "image": 21,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "5ce4e2bb7cd74a2e960b72764ffc1241f8f17f914762f145ec5d63346d35c3e1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/21"
+    },
+    {
+      "image": 22,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "fbef908f25a4ede5ee0db4ee290f0733df0156cc2b2807da83a0403eb54d5a51",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/22"
+    },
+    {
+      "image": 22,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "fbef908f25a4ede5ee0db4ee290f0733df0156cc2b2807da83a0403eb54d5a51",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/22"
+    },
+    {
+      "image": 23,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "1698f64a12e829194b4c49b37561e8447b66e2641cbfed9db4d189e19e159245",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "1698f64a12e829194b4c49b37561e8447b66e2641cbfed9db4d189e19e159245",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "奉議郎",
+      "after": "奉議卽",
+      "reason": "官名後原刻右部為卩，保留卽形。",
+      "source_bbox": [
+        1647,
+        465,
+        1746,
+        960
+      ],
+      "offset": [
+        1,
+        4
+      ],
+      "source_image_sha256": "26bb9b8c8d011a4e98cff893c58ad674cd096453ccacf7748dbeb8e5cf9af7d1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "必用方三卷",
+      "after": "必用方二卷",
+      "reason": "方、卷之間可定位兩橫。",
+      "source_bbox": [
+        593,
+        1360,
+        674,
+        1730
+      ],
+      "offset": [
+        15,
+        20
+      ],
+      "source_image_sha256": "26bb9b8c8d011a4e98cff893c58ad674cd096453ccacf7748dbeb8e5cf9af7d1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "26bb9b8c8d011a4e98cff893c58ad674cd096453ccacf7748dbeb8e5cf9af7d1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "26bb9b8c8d011a4e98cff893c58ad674cd096453ccacf7748dbeb8e5cf9af7d1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24"
+    },
+    {
+      "image": 25,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "fcf1505663558d4062792ba4277bf0829d09aed8f310ef881c4568841ea627f9",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/25"
+    },
+    {
+      "image": 25,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右頁首欄字旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "fcf1505663558d4062792ba4277bf0829d09aed8f310ef881c4568841ea627f9",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/25"
+    },
+    {
+      "image": 25,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "fcf1505663558d4062792ba4277bf0829d09aed8f310ef881c4568841ea627f9",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/25"
+    },
+    {
+      "image": 25,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左頁四欄部旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "fcf1505663558d4062792ba4277bf0829d09aed8f310ef881c4568841ea627f9",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/25"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "8c97aa303786b6050682c7055ab071008e414f1ed40208fe0688215d537477d4",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/26"
+    },
+    {
+      "image": 26,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右五欄著旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "8c97aa303786b6050682c7055ab071008e414f1ed40208fe0688215d537477d4",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/26"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "8c97aa303786b6050682c7055ab071008e414f1ed40208fe0688215d537477d4",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/26"
+    },
+    {
+      "image": 26,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左三欄「從」上方一處片假名選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "8c97aa303786b6050682c7055ab071008e414f1ed40208fe0688215d537477d4",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/26"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "885c03186683187cc3b4f297eba597d948feecac211e2081ac8fcd0b8d820488",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/27"
+    },
+    {
+      "image": 27,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右七欄著旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "885c03186683187cc3b4f297eba597d948feecac211e2081ac8fcd0b8d820488",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/27"
+    },
+    {
+      "image": 27,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "885c03186683187cc3b4f297eba597d948feecac211e2081ac8fcd0b8d820488",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/27"
+    },
+    {
+      "image": 27,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左一欄字旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "885c03186683187cc3b4f297eba597d948feecac211e2081ac8fcd0b8d820488",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/27"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f4b5a7b7e05594d5d6a6cb55778874436950fab846a55dad0395dd7438334966",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/28"
+    },
+    {
+      "image": 28,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右二欄著旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f4b5a7b7e05594d5d6a6cb55778874436950fab846a55dad0395dd7438334966",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/28"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f4b5a7b7e05594d5d6a6cb55778874436950fab846a55dad0395dd7438334966",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/28"
+    },
+    {
+      "image": 28,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左六欄傳旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f4b5a7b7e05594d5d6a6cb55778874436950fab846a55dad0395dd7438334966",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/28"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "54646289120ce359821d0b6c8d2edde54f61a1dda4c80b31a2fbe37c5e443315",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右五欄撰旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "54646289120ce359821d0b6c8d2edde54f61a1dda4c80b31a2fbe37c5e443315",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "54646289120ce359821d0b6c8d2edde54f61a1dda4c80b31a2fbe37c5e443315",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29"
+    },
+    {
+      "image": 29,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左八欄説旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "54646289120ce359821d0b6c8d2edde54f61a1dda4c80b31a2fbe37c5e443315",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f0f76f48637614819cabd9e9115bce11c830a54af9fe082f3b0d4052e9729c0a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/30"
+    },
+    {
+      "image": 30,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右三欄著撰附近訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f0f76f48637614819cabd9e9115bce11c830a54af9fe082f3b0d4052e9729c0a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/30"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f0f76f48637614819cabd9e9115bce11c830a54af9fe082f3b0d4052e9729c0a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/30"
+    },
+    {
+      "image": 30,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左五欄「著」旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "f0f76f48637614819cabd9e9115bce11c830a54af9fe082f3b0d4052e9729c0a",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/30"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "d2c4439bcae7357785063b33e87b7c699e0db2b57693f961fd761803033ad2a1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/31"
+    },
+    {
+      "image": 31,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右六欄著旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "d2c4439bcae7357785063b33e87b7c699e0db2b57693f961fd761803033ad2a1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/31"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "d2c4439bcae7357785063b33e87b7c699e0db2b57693f961fd761803033ad2a1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/31"
+    },
+    {
+      "image": 31,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左四欄撰旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "d2c4439bcae7357785063b33e87b7c699e0db2b57693f961fd761803033ad2a1",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/31"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "67cf7a4f2e4f9e6ad237a8d3ea71f7445c293129117d61aa9641e8146d5c1ced",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/32"
+    },
+    {
+      "image": 32,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右八欄撰旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "67cf7a4f2e4f9e6ad237a8d3ea71f7445c293129117d61aa9641e8146d5c1ced",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/32"
+    },
+    {
+      "image": 32,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "67cf7a4f2e4f9e6ad237a8d3ea71f7445c293129117d61aa9641e8146d5c1ced",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/32"
+    },
+    {
+      "image": 32,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左二欄「連」旁選錄假名",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "67cf7a4f2e4f9e6ad237a8d3ea71f7445c293129117d61aa9641e8146d5c1ced",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/32"
+    },
+    {
+      "image": 33,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "69cf376f7b72cd81d0214fe152da5aff3f2ace64626c43fa52467beff71210fe",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/33"
+    },
+    {
+      "image": 33,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "右八欄撰旁訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "69cf376f7b72cd81d0214fe152da5aff3f2ace64626c43fa52467beff71210fe",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/33"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "69cf376f7b72cd81d0214fe152da5aff3f2ace64626c43fa52467beff71210fe",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/33"
+    },
+    {
+      "image": 33,
+      "side": "left",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 10",
+      "after": "左七欄其門附近訓點選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "69cf376f7b72cd81d0214fe152da5aff3f2ace64626c43fa52467beff71210fe",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/33"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 6,
+      "kind": "paratext",
+      "op": "locate-ending",
+      "before": "第6轉錄欄",
+      "after": "第6轉錄欄對應第10原實體欄",
+      "reason": "卷終前四個實體欄無正面本文。",
+      "source_image_sha256": "ae7d9636e74f0fcdefa3f31c5760fbfd9619e4f7834f4cc3b9e0fdc6f0ef4b23",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/34"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 6",
+      "after": "右外版心",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "ae7d9636e74f0fcdefa3f31c5760fbfd9619e4f7834f4cc3b9e0fdc6f0ef4b23",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/34"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": null,
+      "kind": "paratext",
+      "op": "reanchor",
+      "before": "原掛接欄為 6",
+      "after": "右四欄「拘」附近假名選錄",
+      "reason": "依印面分記欄旁小字、書目附文及版心。",
+      "source_image_sha256": "ae7d9636e74f0fcdefa3f31c5760fbfd9619e4f7834f4cc3b9e0fdc6f0ef4b23",
+      "canvas": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/34"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 3,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6",
+      "status": "字形待核"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13",
+      "status": "字形待核"
+    },
+    {
+      "image": 13,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 14,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/14",
+      "status": "字形待核"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/15",
+      "status": "字形待核"
+    },
+    {
+      "image": 15,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/15",
+      "status": "字形待核"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/17",
+      "status": "字形待核"
+    },
+    {
+      "image": 17,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/17",
+      "status": "字形待核"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18",
+      "status": "字形待核"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "status": "字形待核"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "status": "字形待核"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 6,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "status": "字形待核"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "status": "字形待核"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 8,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "status": "字形待核"
+    },
+    {
+      "image": 23,
+      "side": "left",
+      "column": 10,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "status": "字形待核"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 2,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24",
+      "status": "字形待核"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24",
+      "status": "字形待核"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 5,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24",
+      "status": "字形待核"
+    },
+    {
+      "image": 24,
+      "side": "left",
+      "column": 7,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24",
+      "status": "字形待核"
+    },
+    {
+      "image": 24,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24",
+      "status": "字形待核"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 3,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29",
+      "status": "字形待核"
+    },
+    {
+      "image": 34,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/34",
+      "status": "字形待核"
+    },
+    {
+      "image": 35,
+      "side": "left",
+      "column": null,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/35",
+      "status": "字形待核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 3,
+      "side": "left",
+      "column": 1,
+      "source_image_sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3",
+      "reading": "醫學院學範卷之二",
+      "reason": "卷次的兩橫分明。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 2,
+      "source_image_sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3",
+      "reading": "醫學院法印畑柳安惟和著",
+      "reason": "著者及題署依版刻。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3",
+      "reading": "醫學講習",
+      "reason": "篇題在空欄之左。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 6,
+      "side": "left",
+      "column": 5,
+      "source_image_sha256": "658e8dfa85249868ae5ee2a2535d68aff8209bda5d00fabf8f304e7eb471a5e8",
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6",
+      "reading": "合軌一轍",
+      "reason": "末字有車旁，保留字形。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 18,
+      "side": "left",
+      "column": 7,
+      "source_image_sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18",
+      "reading": "號玄晏先生",
+      "reason": "晏上日下安。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 29,
+      "side": "right",
+      "column": 3,
+      "source_image_sha256": "54646289120ce359821d0b6c8d2edde54f61a1dda4c80b31a2fbe37c5e443315",
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29",
+      "reading": "詳己所",
+      "reason": "詳從言、羊，己與已另存候讀。",
+      "status": "依原圖留讀"
+    },
+    {
+      "image": 34,
+      "side": "right",
+      "column": 6,
+      "source_image_sha256": "ae7d9636e74f0fcdefa3f31c5760fbfd9619e4f7834f4cc3b9e0fdc6f0ef4b23",
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/34",
+      "reading": "醫學院學範卷之二終",
+      "reason": "卷終的二可辨。此為最左第十實體欄。",
+      "status": "依原圖留讀"
+    }
+  ]
+}

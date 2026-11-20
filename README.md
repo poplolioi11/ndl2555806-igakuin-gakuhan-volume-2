@@ -4,11 +4,11 @@
 
 Volume two of Igakuin gakuhan is Hata Ryūan’s Literary Chinese work on medical education during the Edo period. The opening section addresses the order of study and the reading of classical and medical works. The source is volume two of the National Diet Library edition, shelfmark 特1-406, catalogued with prefaces dated 1785 and 1786.
 
-## V0.1.0
+## V0.2.0
 
-全卷36幅均編目。第3幅左面至第34幅右面為正文，共62面。封面、襯頁、內題、卷末及可辨刊旁訓點各留定位。AI 輔助逐欄初錄，部分訓點與疑字留原圖對應。
+全卷36幅均編目。第3幅左面至第34幅右面為正文，共62面。封面、襯頁、內題、卷末及可辨刊旁訓點各留定位。比對未見初稿的本機 OCR 候選後，回圖裁定採用 94 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 36 scans are indexed. The 62 written faces extend from the left face of scan 3 to the right face of scan 34. Covers, endpapers, internal titles, and discernible reading marks are separately locatable. AI-assisted column-by-column initial transcription with unresolved readings marked.
+All 36 scans are indexed. The 62 written faces extend from the left face of scan 3 to the right face of scan 34. Covers, endpapers, internal titles, and discernible reading marks are separately locatable. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 94 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

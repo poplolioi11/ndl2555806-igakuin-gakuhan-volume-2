@@ -17,7 +17,7 @@
     "manifest_url": "https://dl.ndl.go.jp/api/iiif/2555806/manifest.json",
     "manifest_sha256": "61ffa079c572d83e4a6674a6cf44fe627bf9240414c08370e641f8d3294cf5c8",
     "record_id": "NDL2555806",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": [
       1,
       2,
@@ -56,9 +56,9 @@
       35,
       36
     ],
-    "version": "0.1.0",
+    "version": "0.2.0",
     "dataset_title": "醫學院學範卷二（江戶時代刊本，日本國立國會圖書館 特1-406） / Igakuin gakuhan, maki 2 [Rules of the Medical Academy, volume two]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -183,7 +183,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "volume-opening",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -200,25 +200,32 @@
               "text": "醫學院法印畑柳安惟和著"
             },
             {
-              "text": "醫學講習"
+              "text": "醫學講習",
+              "physical_column": 4
             },
             {
-              "text": "漢書詔侍醫李柱國校方技分四部醫經經方房中"
+              "text": "漢書詔侍醫李柱國校方技分四部醫經經方房中",
+              "physical_column": 5
             },
             {
-              "text": "神僊也醫經者曰血脈經絡骨髓陰陽表裡以起百"
+              "text": "神僊也醫經者曰血脉經絡骨髓陰陽表裡以起百",
+              "physical_column": 6
             },
             {
-              "text": "病之本死生之分而用度箴石湯火所施調百藥齊"
+              "text": "病之本死生之分而用度箴石湯火所施調百藥齊",
+              "physical_column": 7
             },
             {
-              "text": "和之所宜也經方者曰本草石之寒溫量疾病之淺"
+              "text": "和之所宜也經方者曰本草石之寒溫量疾病之淺",
+              "physical_column": 8
             },
             {
-              "text": "深假藥味之滋因氣感之宜以通閉解結反之於平"
+              "text": "深假藥味之滋因氣感之宜以通閉解結反之於平",
+              "physical_column": 9
             },
             {
-              "text": "房中者曰聖人制外樂以禁內情爲之節文神僊者"
+              "text": "房中者曰聖人制外樂以禁內情爲之節文神僊者",
+              "physical_column": 10
             }
           ],
           "extras": [
@@ -226,14 +233,22 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　一",
-              "column_anchor": 9,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
         }
       ],
-      "issues": [],
-      "observations": "右面：前襯無正文。下部紙有缺痕及淡透墨。 左面：署名與「醫學講習」之間一空欄可見透墨。上下朱印位於正文層之外。正文保留大字與實義附記，欄旁小型訓點及標記未逐點錄出。"
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "四方印文",
+          "candidates": [],
+          "note": "上下各印按圖定位，印文尚未釋定。"
+        }
+      ],
+      "observations": "右面：前襯無正文。下部紙有缺痕及淡透墨。 左面：署名與「醫學講習」之間一空欄可見透墨。上下朱印位於正文層之外。正文保留大字與實義附記，欄旁小型訓點及標記未逐點錄出。 左頁第3實體欄無正文。上朱方印一方，下方朱圓印一方及朱方印二方。"
     },
     {
       "image": 4,
@@ -248,7 +263,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -289,7 +304,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　一",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -333,7 +348,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -355,7 +370,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -396,7 +411,7 @@
               "type": "printed-small-text",
               "location": "右頁第七欄下方雙行小注",
               "text": "褚氏病源雖不載方／以古論故列於此",
-              "column_anchor": 10,
+              "column_anchor": 7,
               "color": "unknown",
               "lines": [
                 "褚氏病源雖不載方",
@@ -407,7 +422,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -451,14 +466,14 @@
               "type": "printed-small-text",
               "location": "左頁首欄末小字",
               "text": "醫學院家書",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　三",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -480,7 +495,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -501,7 +516,7 @@
               "text": "錦囊秘錄　證治大還　醫宗金鑑"
             },
             {
-              "text": "自軒岐以迄於今疾醫之道二盛二變一盛於周再"
+              "text": "自軒岐以迄於今疾醫之道三盛二變一盛於周再"
             },
             {
               "text": "盛於漢又再盛於唐其變者一變於宋再變於金元"
@@ -521,7 +536,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　三",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -539,7 +554,7 @@
               "text": "之唐宋以降運氣勝復之說盛行于世古醫法掃地"
             },
             {
-              "text": "者二百年其流風靡然莫能革之明清之世雖俊才"
+              "text": "者三百年其流風靡然莫能革之明清之世雖俊才"
             },
             {
               "text": "輩出合軌一轍竟不能振古規而超百世爲其辨正"
@@ -565,7 +580,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　四",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -578,6 +593,13 @@
           "context": "□",
           "candidates": [],
           "note": "部分筆畫不清，原圖字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "朱□",
+          "candidates": [],
+          "note": "前一字朱可辨，其後筆畫仍不足判定。"
         }
       ],
       "observations": "左面：右頁第六欄「二盛」待覆核。左頁第九欄「圖奔」暫讀，第十欄「朱□」後有形近「嚞」字，暫缺。"
@@ -595,7 +617,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -636,7 +658,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　四",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -680,7 +702,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　五",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -702,7 +724,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -743,7 +765,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　五",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -787,7 +809,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　六",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -809,7 +831,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -850,7 +872,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　六",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -894,7 +916,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　七",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -916,7 +938,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -957,7 +979,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　七",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1001,7 +1023,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　八",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1023,7 +1045,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1064,7 +1086,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　八",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1108,7 +1130,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1130,7 +1152,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1171,7 +1193,7 @@
               "type": "running-title",
               "location": "右頁外欄版心",
               "text": "學範卷二　九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1215,7 +1237,7 @@
               "type": "running-title",
               "location": "左頁外欄版心",
               "text": "學範卷二　十",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1237,7 +1259,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1278,14 +1300,14 @@
               "type": "printed-small-text",
               "location": "右九小字（經腧選下）",
               "text": "御園氏家書",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　八",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1329,7 +1351,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1373,7 +1395,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1414,7 +1436,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1458,7 +1480,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1502,7 +1524,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1543,7 +1565,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1587,7 +1609,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十一",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1624,7 +1646,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1665,7 +1687,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十一",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1709,7 +1731,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1731,7 +1753,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1772,7 +1794,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1816,7 +1838,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十三",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1853,13 +1875,13 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "診遂廢且與其關名及腎間之診昉自扁鵲至張長"
+              "text": "胗遂廢且與其關名及腎間之胗昉自扁鵲至張長"
             },
             {
               "text": "沙其法簡而要明而悉寸口尺中之外有以陰蹻陽"
@@ -1874,7 +1896,7 @@
               "text": "濇絃洪微細乳伏促結等統之以陰陽虛實輕重斷"
             },
             {
-              "text": "然無復可疑者可謂診法大備焉如其標舉榮章等"
+              "text": "然無復可疑者可謂胗法大備焉如其標舉榮章等"
             },
             {
               "text": "怪奇之診名及七表八裏九道之說叔和取諸家之"
@@ -1894,7 +1916,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十三",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1938,7 +1960,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十四",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1968,7 +1990,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2009,7 +2031,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十四",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2053,7 +2075,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十五",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2075,7 +2097,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2116,7 +2138,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十五",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2160,7 +2182,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十六",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2182,7 +2204,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2223,7 +2245,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十六",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2267,7 +2289,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十七",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2289,7 +2311,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2330,7 +2352,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十七",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2374,7 +2396,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十八",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2396,7 +2418,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2437,7 +2459,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十八",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2481,7 +2503,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2546,7 +2568,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2570,7 +2592,7 @@
               "text": "活人書"
             },
             {
-              "text": "宋奉議郎朱肱號無求子以長沙傷寒論分類問答"
+              "text": "宋奉議卽朱肱號無求子以長沙傷寒論分類問答"
             },
             {
               "text": "以撰是書本號傷寒百問方後增益之比百問十倍"
@@ -2587,7 +2609,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　十九",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2614,7 +2636,7 @@
               "text": "古今錄驗養生必用方"
             },
             {
-              "text": "宋紹聖間初虞世所撰古今錄驗養生必用方三卷"
+              "text": "宋紹聖間初虞世所撰古今錄驗養生必用方二卷"
             },
             {
               "text": "治論簡易明辨崇尊長沙之家法因謂萬世學者皆"
@@ -2631,7 +2653,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "學範卷二　二十",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2665,6 +2687,16 @@
           "context": "虞",
           "candidates": [],
           "note": "旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。"
+        },
+        {
+          "side": "right",
+          "column": 4,
+          "context": "二十",
+          "candidates": [
+            "二十",
+            "一十"
+          ],
+          "note": "相鄰短橫受近筆干擾，保留現讀與候讀。"
         }
       ],
       "observations": "左面：旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。"
@@ -2682,7 +2714,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2723,14 +2755,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁首欄字旁訓點選錄",
               "text": "ハ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2774,14 +2806,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁四欄部旁訓點選錄",
               "text": "カ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2803,7 +2835,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2844,14 +2876,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右五欄著旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2895,14 +2927,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左三欄「從」上方一處片假名選錄",
               "text": "テ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2924,7 +2956,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2965,14 +2997,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右七欄著旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3016,14 +3048,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左一欄字旁訓點選錄",
               "text": "ハ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3045,7 +3077,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3086,14 +3118,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右二欄著旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3137,14 +3169,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左六欄傳旁訓點選錄",
               "text": "アリ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3166,7 +3198,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3207,14 +3239,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右五欄撰旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3258,20 +3290,31 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左八欄説旁訓點選錄",
               "text": "セツ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "right",
+          "column": 3,
+          "context": "己",
+          "candidates": [
+            "己",
+            "已"
+          ],
+          "note": "上折與中橫位置待比同版。"
+        }
+      ],
       "observations": "右面：同欄三書名間有空白。痘疹文字為書目、歷史療論與不同醫家見解，沒有見到接種、病原取得或傳播方法。右十「殀」左歹右夭，照原形。 左面：左二「冐際」、六「王字泰」及十「俞弁」放大待覆。訓點僅選可辨處。"
     },
     {
@@ -3287,7 +3330,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3328,14 +3371,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右三欄著撰附近訓點選錄",
               "text": "カ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3379,14 +3422,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左五欄「著」旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3408,7 +3451,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3449,14 +3492,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右六欄著旁訓點選錄",
               "text": "シ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3500,14 +3543,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左四欄撰旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3529,7 +3572,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3570,14 +3613,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右八欄撰旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3621,14 +3664,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左二欄「連」旁選錄假名",
               "text": "ムラジ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3650,7 +3693,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "medical-education-text",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3691,14 +3734,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右八欄撰旁訓點選錄",
               "text": "ス",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3742,14 +3785,14 @@
               "type": "running-title",
               "location": "左外版心",
               "text": "學範卷二",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左七欄其門附近訓點選錄",
               "text": "ニ",
-              "column_anchor": 10,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3771,7 +3814,7 @@
       "downloaded_width": 2600,
       "downloaded_height": 2160,
       "content_role": "volume-ending",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3792,7 +3835,8 @@
               "text": "莫不畢肖也學者其思諸"
             },
             {
-              "text": "醫學院學範卷之二終"
+              "text": "醫學院學範卷之二終",
+              "physical_column": 10
             }
           ],
           "extras": [
@@ -3800,14 +3844,14 @@
               "type": "running-title",
               "location": "右外版心",
               "text": "學範卷二",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右四欄「拘」附近假名選錄",
               "text": "ラ",
-              "column_anchor": 6,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3846,7 +3890,7 @@
           "note": "此處墨跡或構件不清，以□保留未定字。"
         }
       ],
-      "observations": "右面：右頁正文右起五欄，後留四欄可見反面褪墨，最內欄清楚印卷終。淡反影只記，不重複轉錄。訓點僅選錄。 左面：後部空頁，貼籤上下數字可辨。紙面散墨、磨痕及破損另記，不把攝影量尺當正文。"
+      "observations": "右面：右頁正文右起五欄，後留四欄可見反面褪墨，最內欄清楚印卷終。淡反影只記，不重複轉錄。訓點僅選錄。 左面：後部空頁，貼籤上下數字可辨。紙面散墨、磨痕及破損另記，不把攝影量尺當正文。 右頁轉錄末欄對應實體第10欄。第6至9實體欄有透印，原面無正文。"
     },
     {
       "image": 35,

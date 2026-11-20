@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -227,7 +227,7 @@
               <seg type="diplomatic-text">漢書詔侍醫李柱國校方技分四部醫經經方房中</seg>
             </ab>
             <ab type="column" n="5" xml:id="f03-l-c05">
-              <seg type="diplomatic-text">神僊也醫經者曰血脈經絡骨髓陰陽表裡以起百</seg>
+              <seg type="diplomatic-text">神僊也醫經者曰血脉經絡骨髓陰陽表裡以起百</seg>
             </ab>
             <ab type="column" n="6" xml:id="f03-l-c06">
               <seg type="diplomatic-text">病之本死生之分而用度箴石湯火所施調百藥齊</seg>
@@ -241,13 +241,17 @@
             <ab type="column" n="9" xml:id="f03-l-c09">
               <seg type="diplomatic-text">房中者曰聖人制外樂以禁內情爲之節文神僊者</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f03-l-c09">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　一</seg>
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：前襯無正文。下部紙有缺痕及淡透墨。 左面：署名與「醫學講習」之間一空欄可見透墨。上下朱印位於正文層之外。正文保留大字與實義附記，欄旁小型訓點及標記未逐點錄出。</ab>
+            <ab type="layout">右面：前襯無正文。下部紙有缺痕及淡透墨。 左面：署名與「醫學講習」之間一空欄可見透墨。上下朱印位於正文層之外。正文保留大字與實義附記，欄旁小型訓點及標記未逐點錄出。 左頁第3實體欄無正文。上朱方印一方，下方朱圓印一方及朱方印二方。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>四方印文</quote>
+              <note type="editorial">上下各印按圖定位，印文尚未釋定。</note>
+            </ab>
           </div>
         </div>
         <pb n="4" facs="#f04" />
@@ -283,7 +287,7 @@
             <ab type="column" n="10" xml:id="f04-r-c10">
               <seg type="diplomatic-text">筆於書裒集醫巫群言冒以黃岐則宜哉其書之雜</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　一</seg>
             </ab>
@@ -319,7 +323,7 @@
             <ab type="column" n="10" xml:id="f04-l-c10">
               <seg type="diplomatic-text">分脈證審輕重千態萬變莫不該備而遂成醫家萬</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f04-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　二</seg>
             </ab>
@@ -361,11 +365,11 @@
             <ab type="column" n="10" xml:id="f05-r-c10">
               <seg type="diplomatic-text">續醫說　名醫類案　證治要決　醫學綱目</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c10">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-r-c07">
               <label>右頁第七欄下方雙行小注</label>
               <seg type="diplomatic-text" rend="unknown">褚氏病源雖不載方／以古論故列於此</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　二</seg>
             </ab>
@@ -401,11 +405,11 @@
             <ab type="column" n="10" xml:id="f05-l-c10">
               <seg type="diplomatic-text">丹溪心法　醫林集要　石山醫案　傷寒六書</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f05-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁首欄末小字</label>
               <seg type="diplomatic-text" rend="unknown">醫學院家書</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f05-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　三</seg>
             </ab>
@@ -433,7 +437,7 @@
               <seg type="diplomatic-text">錦囊秘錄　證治大還　醫宗金鑑</seg>
             </ab>
             <ab type="column" n="6" xml:id="f06-r-c06">
-              <seg type="diplomatic-text">自軒岐以迄於今疾醫之道二盛二變一盛於周再</seg>
+              <seg type="diplomatic-text">自軒岐以迄於今疾醫之道三盛二變一盛於周再</seg>
             </ab>
             <ab type="column" n="7" xml:id="f06-r-c07">
               <seg type="diplomatic-text">盛於漢又再盛於唐其變者一變於宋再變於金元</seg>
@@ -447,7 +451,7 @@
             <ab type="column" n="10" xml:id="f06-r-c10">
               <seg type="diplomatic-text">博無統愈出愈變繁乎龐雜無復規則及金元李朱</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　三</seg>
             </ab>
@@ -463,7 +467,7 @@
               <seg type="diplomatic-text">之唐宋以降運氣勝復之說盛行于世古醫法掃地</seg>
             </ab>
             <ab type="column" n="4" xml:id="f06-l-c04">
-              <seg type="diplomatic-text">者二百年其流風靡然莫能革之明清之世雖俊才</seg>
+              <seg type="diplomatic-text">者三百年其流風靡然莫能革之明清之世雖俊才</seg>
             </ab>
             <ab type="column" n="5" xml:id="f06-l-c05">
               <seg type="diplomatic-text">輩出合軌一轍竟不能振古規而超百世爲其辨正</seg>
@@ -483,7 +487,7 @@
             <ab type="column" n="10" xml:id="f06-l-c10">
               <seg type="diplomatic-text">趙繼宗趙獻可及孫文胤朱□陳士鐸等而極矣</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f06-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　四</seg>
             </ab>
@@ -493,6 +497,10 @@
             <ab type="transcription-issue" n="left:10">
               <quote>□</quote>
               <note type="editorial">部分筆畫不清，原圖字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:10">
+              <quote>朱□</quote>
+              <note type="editorial">前一字朱可辨，其後筆畫仍不足判定。</note>
             </ab>
           </div>
         </div>
@@ -529,7 +537,7 @@
             <ab type="column" n="10" xml:id="f07-r-c10">
               <seg type="diplomatic-text">俗所爲娠婦到五月則將帛束腹護胎謂之着帶者</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f07-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　四</seg>
             </ab>
@@ -565,7 +573,7 @@
             <ab type="column" n="10" xml:id="f07-l-c10">
               <seg type="diplomatic-text">將護驚癎欬喉痺痢丹毒等嬰孺之病患莫不具備</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f07-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　五</seg>
             </ab>
@@ -607,7 +615,7 @@
             <ab type="column" n="10" xml:id="f08-r-c10">
               <seg type="diplomatic-text">外科大成　瘍科選粹</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f08-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　五</seg>
             </ab>
@@ -643,7 +651,7 @@
             <ab type="column" n="10" xml:id="f08-l-c10">
               <seg type="diplomatic-text">然其峻猛伐毒妄自權衡之亦不能無其弊焉如眼</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f08-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　六</seg>
             </ab>
@@ -685,7 +693,7 @@
             <ab type="column" n="10" xml:id="f09-r-c10">
               <seg type="diplomatic-text">起漢魏以來皆傳其學古無方劑其可傳者唯是已</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f09-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　六</seg>
             </ab>
@@ -721,7 +729,7 @@
             <ab type="column" n="10" xml:id="f09-l-c10">
               <seg type="diplomatic-text">得差背底多又有藥總錄一卷藥性論四卷北齊徐</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f09-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　七</seg>
             </ab>
@@ -763,7 +771,7 @@
             <ab type="column" n="10" xml:id="f10-r-c10">
               <seg type="diplomatic-text">正時珍屢稱本草以來一人而已李珣海藥本草二</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f10-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　七</seg>
             </ab>
@@ -799,7 +807,7 @@
             <ab type="column" n="10" xml:id="f10-l-c10">
               <seg type="diplomatic-text">本草二十卷僞蜀主孟昶命其學士韓保昇等取唐</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f10-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　八</seg>
             </ab>
@@ -841,7 +849,7 @@
             <ab type="column" n="10" xml:id="f11-r-c10">
               <seg type="diplomatic-text">許洪註之鄭樵通志本草益別錄三百六十以應周</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f11-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　八</seg>
             </ab>
@@ -877,7 +885,7 @@
             <ab type="column" n="10" xml:id="f11-l-c10">
               <seg type="diplomatic-text">本草衍義二十卷世醫既稱以諸藥配五行予獲是</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f11-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　九</seg>
             </ab>
@@ -919,7 +927,7 @@
             <ab type="column" n="10" xml:id="f12-r-c10">
               <seg type="diplomatic-text">大抵金元晚季醫說本草以新奇空理交倡之本草</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f12-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　九</seg>
             </ab>
@@ -955,7 +963,7 @@
             <ab type="column" n="10" xml:id="f12-l-c10">
               <seg type="diplomatic-text">理小識通雅閩書南產志華夷花木鳥獸考等所記</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f12-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左頁外欄版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十</seg>
             </ab>
@@ -997,11 +1005,11 @@
             <ab type="column" n="10" xml:id="f13-r-c10">
               <seg type="diplomatic-text">上古未有藥物聖人制砭燔之法以活生民通志有</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右九小字（經腧選下）</label>
               <seg type="diplomatic-text" rend="unknown">御園氏家書</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f13-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　八</seg>
             </ab>
@@ -1037,7 +1045,7 @@
             <ab type="column" n="10" xml:id="f13-l-c10">
               <seg type="diplomatic-text">概見我　東古昔名醫有祕授之法耳</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f13-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　九</seg>
             </ab>
@@ -1091,7 +1099,7 @@
             <ab type="column" n="10" xml:id="f14-r-c10">
               <seg type="diplomatic-text">朱墨不可得而分淆亂失舊可疑者最多況運氣勝</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f14-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　九</seg>
             </ab>
@@ -1127,7 +1135,7 @@
             <ab type="column" n="10" xml:id="f14-l-c10">
               <seg type="diplomatic-text">內經或疑為者要之非能識難經者蓋扁鵲之於醫</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f14-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十</seg>
             </ab>
@@ -1181,7 +1189,7 @@
             <ab type="column" n="10" xml:id="f15-r-c10">
               <seg type="diplomatic-text">復其他迂者巫者推之事實不見効者或成乎呂楊</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f15-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十</seg>
             </ab>
@@ -1217,7 +1225,7 @@
             <ab type="column" n="10" xml:id="f15-l-c10">
               <seg type="diplomatic-text">宏綱大要後世永賴不能復出其範圍焉豈翹羣方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f15-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十一</seg>
             </ab>
@@ -1267,7 +1275,7 @@
             <ab type="column" n="10" xml:id="f16-r-c10">
               <seg type="diplomatic-text">道方所駁未臻閫奧成無已為註著明理論猶依舊</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f16-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十一</seg>
             </ab>
@@ -1303,7 +1311,7 @@
             <ab type="column" n="10" xml:id="f16-l-c10">
               <seg type="diplomatic-text">豈有學而不試乎若夫戴復庵三陽失序論有所見</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f16-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十二</seg>
             </ab>
@@ -1345,7 +1353,7 @@
             <ab type="column" n="10" xml:id="f17-r-c10">
               <seg type="diplomatic-text">六卷亡逸者別有玉函經疑後人之贋不俟辨焉晚</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f17-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十二</seg>
             </ab>
@@ -1381,7 +1389,7 @@
             <ab type="column" n="10" xml:id="f17-l-c10">
               <seg type="diplomatic-text">診嫌於刺客故獨取于寸口以決死生焉而喉傍之</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f17-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十三</seg>
             </ab>
@@ -1402,7 +1410,7 @@
         <div n="18" type="scan" subtype="medical-education-text">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f18-r-c01">
-              <seg type="diplomatic-text">診遂廢且與其關名及腎間之診昉自扁鵲至張長</seg>
+              <seg type="diplomatic-text">胗遂廢且與其關名及腎間之胗昉自扁鵲至張長</seg>
             </ab>
             <ab type="column" n="2" xml:id="f18-r-c02">
               <seg type="diplomatic-text">沙其法簡而要明而悉寸口尺中之外有以陰蹻陽</seg>
@@ -1417,7 +1425,7 @@
               <seg type="diplomatic-text">濇絃洪微細乳伏促結等統之以陰陽虛實輕重斷</seg>
             </ab>
             <ab type="column" n="6" xml:id="f18-r-c06">
-              <seg type="diplomatic-text">然無復可疑者可謂診法大備焉如其標舉榮章等</seg>
+              <seg type="diplomatic-text">然無復可疑者可謂胗法大備焉如其標舉榮章等</seg>
             </ab>
             <ab type="column" n="7" xml:id="f18-r-c07">
               <seg type="diplomatic-text">怪奇之診名及七表八裏九道之說叔和取諸家之</seg>
@@ -1431,7 +1439,7 @@
             <ab type="column" n="10" xml:id="f18-r-c10">
               <seg type="diplomatic-text">妄誕遵內經扁鵲長沙之規則以悟其運用之妙焉</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f18-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十三</seg>
             </ab>
@@ -1467,7 +1475,7 @@
             <ab type="column" n="10" xml:id="f18-l-c10">
               <seg type="diplomatic-text">未經後人傳會錯亂運氣二火論說攙入猶可以觀</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f18-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十四</seg>
             </ab>
@@ -1513,7 +1521,7 @@
             <ab type="column" n="10" xml:id="f19-r-c10">
               <seg type="diplomatic-text">隋巢元方病源候論五十卷受詔撰之唐宋舊制醫</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f19-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十四</seg>
             </ab>
@@ -1549,7 +1557,7 @@
             <ab type="column" n="10" xml:id="f19-l-c10">
               <seg type="diplomatic-text">傳之說兪子容以與今素問不合不取者非也論五</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f19-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十五</seg>
             </ab>
@@ -1591,7 +1599,7 @@
             <ab type="column" n="10" xml:id="f20-r-c10">
               <seg type="diplomatic-text">孫思邈撰又著翼方三十卷掇集其遺逸其書奇方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f20-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十五</seg>
             </ab>
@@ -1627,7 +1635,7 @@
             <ab type="column" n="10" xml:id="f20-l-c10">
               <seg type="diplomatic-text">方四十卷大抵古醫方如博濟聖苑小品梅師深師</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f20-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十六</seg>
             </ab>
@@ -1669,7 +1677,7 @@
             <ab type="column" n="10" xml:id="f21-r-c10">
               <seg type="diplomatic-text">聖惠方　聖濟總錄　和劑局方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f21-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十六</seg>
             </ab>
@@ -1705,7 +1713,7 @@
             <ab type="column" n="10" xml:id="f21-l-c10">
               <seg type="diplomatic-text">則不師古昔於是乎顓門之學廢而長沙之法泯焉</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f21-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十七</seg>
             </ab>
@@ -1747,7 +1755,7 @@
             <ab type="column" n="10" xml:id="f22-r-c10">
               <seg type="diplomatic-text">記其事實以為是書前後二十卷取孟啓本事詩之</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f22-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十七</seg>
             </ab>
@@ -1783,7 +1791,7 @@
             <ab type="column" n="10" xml:id="f22-l-c10">
               <seg type="diplomatic-text">聚屬肺及五獸癎有馬無犬有胃無腎等種種邪說</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f22-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十八</seg>
             </ab>
@@ -1825,7 +1833,7 @@
             <ab type="column" n="10" xml:id="f23-r-c10">
               <seg type="diplomatic-text">規度者幾希然雖此之所失而彼存焉者間亦有之</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f23-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十八</seg>
             </ab>
@@ -1861,7 +1869,7 @@
             <ab type="column" n="10" xml:id="f23-l-c10">
               <seg type="diplomatic-text">存此書裒集古方顱顖經以後是書以前書皆編入</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f23-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十九</seg>
             </ab>
@@ -1916,7 +1924,7 @@
               <seg type="diplomatic-text">活人書</seg>
             </ab>
             <ab type="column" n="7" xml:id="f24-r-c07">
-              <seg type="diplomatic-text">宋奉議郎朱肱號無求子以長沙傷寒論分類問答</seg>
+              <seg type="diplomatic-text">宋奉議卽朱肱號無求子以長沙傷寒論分類問答</seg>
             </ab>
             <ab type="column" n="8" xml:id="f24-r-c08">
               <seg type="diplomatic-text">以撰是書本號傷寒百問方後增益之比百問十倍</seg>
@@ -1927,7 +1935,7 @@
             <ab type="column" n="10" xml:id="f24-r-c10">
               <seg type="diplomatic-text">者本華佗語也肱之為是書嘗過洪州名醫宋道方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f24-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　十九</seg>
             </ab>
@@ -1952,7 +1960,7 @@
               <seg type="diplomatic-text">古今錄驗養生必用方</seg>
             </ab>
             <ab type="column" n="7" xml:id="f24-l-c07">
-              <seg type="diplomatic-text">宋紹聖間初虞世所撰古今錄驗養生必用方三卷</seg>
+              <seg type="diplomatic-text">宋紹聖間初虞世所撰古今錄驗養生必用方二卷</seg>
             </ab>
             <ab type="column" n="8" xml:id="f24-l-c08">
               <seg type="diplomatic-text">治論簡易明辨崇尊長沙之家法因謂萬世學者皆</seg>
@@ -1963,7 +1971,7 @@
             <ab type="column" n="10" xml:id="f24-l-c10">
               <seg type="diplomatic-text">楊氏家藏方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f24-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二　二十</seg>
             </ab>
@@ -1985,6 +1993,12 @@
             <ab type="transcription-issue" n="left:7">
               <quote>虞</quote>
               <note type="editorial">旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>二十</quote>
+              <seg type="candidate">二十</seg>
+              <seg type="candidate">一十</seg>
+              <note type="editorial">相鄰短橫受近筆干擾，保留現讀與候讀。</note>
             </ab>
           </div>
         </div>
@@ -2021,11 +2035,11 @@
             <ab type="column" n="10" xml:id="f25-r-c10">
               <seg type="diplomatic-text">宋碧溪魏峴所著十卷寶慶丁亥魏峴自序曰攟先</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f25-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁首欄字旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ハ</seg>
             </ab>
@@ -2061,11 +2075,11 @@
             <ab type="column" n="10" xml:id="f25-l-c10">
               <seg type="diplomatic-text">宋王璆字孟玉山陰人撰集百一選方二十卷有方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f25-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f25-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁四欄部旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">カ</seg>
             </ab>
@@ -2107,11 +2121,11 @@
             <ab type="column" n="10" xml:id="f26-r-c10">
               <seg type="diplomatic-text">卯翰林學士高鳴序之曰聖朝以三代相生養之道</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f26-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右五欄著旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2147,11 +2161,11 @@
             <ab type="column" n="10" xml:id="f26-l-c10">
               <seg type="diplomatic-text">方載癰疽金瘡之治王守愚普濟方等皆宋元醫士</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f26-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f26-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左三欄「從」上方一處片假名選錄</label>
               <seg type="diplomatic-text" rend="unknown">テ</seg>
             </ab>
@@ -2193,11 +2207,11 @@
             <ab type="column" n="10" xml:id="f27-r-c10">
               <seg type="diplomatic-text">直指方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f27-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右七欄著旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2233,11 +2247,11 @@
             <ab type="column" n="10" xml:id="f27-l-c10">
               <seg type="diplomatic-text">則易知簡則易從所以名書也</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f27-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左一欄字旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ハ</seg>
             </ab>
@@ -2279,11 +2293,11 @@
             <ab type="column" n="10" xml:id="f28-r-c10">
               <seg type="diplomatic-text">靈苑方二十卷未見之類子瞻論聖散子治溫疫効</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f28-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右二欄著旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2319,11 +2333,11 @@
             <ab type="column" n="10" xml:id="f28-l-c10">
               <seg type="diplomatic-text">而無瀉皆開發內經之秘者也雖幼幼新書載瘡疹</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f28-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左六欄傳旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">アリ</seg>
             </ab>
@@ -2365,11 +2379,11 @@
             <ab type="column" n="10" xml:id="f29-r-c10">
               <seg type="diplomatic-text">疹莫不祖述二氏者蓋痘疹嬰孺命關殀壽所分須</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f29-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右五欄撰旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2405,17 +2419,23 @@
             <ab type="column" n="10" xml:id="f29-l-c10">
               <seg type="diplomatic-text">摭此醫家者流之語林世説耳明俞弁著續醫説</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f29-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左八欄説旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">セツ</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：同欄三書名間有空白。痘疹文字為書目、歷史療論與不同醫家見解，沒有見到接種、病原取得或傳播方法。右十「殀」左歹右夭，照原形。 左面：左二「冐際」、六「王字泰」及十「俞弁」放大待覆。訓點僅選可辨處。</ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>己</quote>
+              <seg type="candidate">己</seg>
+              <seg type="candidate">已</seg>
+              <note type="editorial">上折與中橫位置待比同版。</note>
+            </ab>
           </div>
         </div>
         <pb n="30" facs="#f30" />
@@ -2451,11 +2471,11 @@
             <ab type="column" n="10" xml:id="f30-r-c10">
               <seg type="diplomatic-text">宋燕山竇漢卿所著久失其傳明洪瞻巖偶獲宋刻</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f30-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右三欄著撰附近訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">カ</seg>
             </ab>
@@ -2491,11 +2511,11 @@
             <ab type="column" n="10" xml:id="f30-l-c10">
               <seg type="diplomatic-text">大効愈人萬萬但不欲輕傳匪人故以隱語括之證</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f30-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左五欄「著」旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2537,11 +2557,11 @@
             <ab type="column" n="10" xml:id="f31-r-c10">
               <seg type="diplomatic-text">眼科七十二方之論危亦林得効方載之徐春甫曰</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f31-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右六欄著旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">シ</seg>
             </ab>
@@ -2577,11 +2597,11 @@
             <ab type="column" n="10" xml:id="f31-l-c10">
               <seg type="diplomatic-text">王貺指迷方無名氏海上仙方等宋元士大夫及醫</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f31-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左四欄撰旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2623,11 +2643,11 @@
             <ab type="column" n="10" xml:id="f32-r-c10">
               <seg type="diplomatic-text">神聖大已貴少彦名肇興醫藥邈乎寥矣哉其揆同</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f32-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右八欄撰旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2663,11 +2683,11 @@
             <ab type="column" n="10" xml:id="f32-l-c10">
               <seg type="diplomatic-text">廷議不應和緩之名響者三韓丹波忠明之神術鍼</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f32-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左二欄「連」旁選錄假名</label>
               <seg type="diplomatic-text" rend="unknown">ムラジ</seg>
             </ab>
@@ -2709,11 +2729,11 @@
             <ab type="column" n="10" xml:id="f33-r-c10">
               <seg type="diplomatic-text">素經二十卷廣貞難經開委源輔仁養生鈔掌中方</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f33-r-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-r-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右八欄撰旁訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ス</seg>
             </ab>
@@ -2749,11 +2769,11 @@
             <ab type="column" n="10" xml:id="f33-l-c10">
               <seg type="diplomatic-text">迭起相軋雖其言人人殊醫風亦漸振人識所嚮復</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f33-l-c10">
+            <ab type="page-feature" subtype="running-title">
               <label>左外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-l-c10">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左七欄其門附近訓點選錄</label>
               <seg type="diplomatic-text" rend="unknown">ニ</seg>
             </ab>
@@ -2783,11 +2803,11 @@
             <ab type="column" n="6" xml:id="f34-r-c06">
               <seg type="diplomatic-text">醫學院學範卷之二終</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f34-r-c06">
+            <ab type="page-feature" subtype="running-title">
               <label>右外版心</label>
               <seg type="diplomatic-text" rend="unknown">學範卷二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c06">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右四欄「拘」附近假名選錄</label>
               <seg type="diplomatic-text" rend="unknown">ラ</seg>
             </ab>
@@ -2803,7 +2823,7 @@
             </ab>
           </div>
           <div type="editorial-observations">
-            <ab type="layout">右面：右頁正文右起五欄，後留四欄可見反面褪墨，最內欄清楚印卷終。淡反影只記，不重複轉錄。訓點僅選錄。 左面：後部空頁，貼籤上下數字可辨。紙面散墨、磨痕及破損另記，不把攝影量尺當正文。</ab>
+            <ab type="layout">右面：右頁正文右起五欄，後留四欄可見反面褪墨，最內欄清楚印卷終。淡反影只記，不重複轉錄。訓點僅選錄。 左面：後部空頁，貼籤上下數字可辨。紙面散墨、磨痕及破損另記，不把攝影量尺當正文。 右頁轉錄末欄對應實體第10欄。第6至9實體欄有透印，原面無正文。</ab>
             <ab type="transcription-issue" n="left:None">
               <quote>貼籤中段淡朱</quote>
               <note type="editorial">此處墨跡或構件不清，以□保留未定字。</note>

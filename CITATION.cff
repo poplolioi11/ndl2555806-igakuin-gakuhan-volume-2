@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '醫學院學範卷二（江戶時代刊本，日本國立國會圖書館 特1-406） / Igakuin gakuhan, maki 2 [Rules of the Medical
   Academy, volume two]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu
