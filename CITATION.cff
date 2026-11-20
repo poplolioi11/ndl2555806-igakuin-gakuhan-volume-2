@@ -4,6 +4,7 @@ title: '醫學院學範卷二（江戶時代刊本，日本國立國會圖書館
   Academy, volume two]: Transcription Dataset'
 type: dataset
 version: 0.2.0
+doi: "10.5281/zenodo.24405960"
 authors:
 - family-names: Chu
   given-names: Chen-Yu
