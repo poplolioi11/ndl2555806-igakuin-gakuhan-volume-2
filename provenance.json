@@ -1,0 +1,265 @@
+{
+  "historical_author": "畑柳安惟和（Hata Ryūan）",
+  "source_identity": "日本國立國會圖書館 特1-406，PID 2555806",
+  "source": "https://dl.ndl.go.jp/pid/2555806",
+  "iiif_manifest": "https://dl.ndl.go.jp/api/iiif/2555806/manifest.json",
+  "source_rights_policy": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "dataset_version": "0.1.0",
+  "scan_count": 36,
+  "content_scan_count": 32,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/1",
+      "label": "1",
+      "sha256": "2a711c13be49bea56d1b5e2ba6d4e5d2be36d42afc34ff76767fba0963fbb658",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/2",
+      "label": "2",
+      "sha256": "e63e254676448efdf786a8928c956d7a2817432a2eae37a4b83d09d1717f7cee",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3",
+      "label": "3",
+      "sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "content_role": "volume-opening"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/4",
+      "label": "4",
+      "sha256": "67cdaa824d2eeb56eac6277379f592cd5e7a536a553fe673bb133eab5ab4a246",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/5",
+      "label": "5",
+      "sha256": "2ede1f0761f9800dae6f62c3bee46a9182325a58aa3bd14f9c4e347c108bf04a",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6",
+      "label": "6",
+      "sha256": "658e8dfa85249868ae5ee2a2535d68aff8209bda5d00fabf8f304e7eb471a5e8",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/7",
+      "label": "7",
+      "sha256": "f06643837402340bee81ece597494ddf689cb0144d4255f0de7d823c0278ced5",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/8",
+      "label": "8",
+      "sha256": "01ba63c74b36b9e9942dd0c45923d72525731c8566bb54d7729a83a72f311a89",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/9",
+      "label": "9",
+      "sha256": "7375ba78bc3f4e2b2ae67eb374871840b2c69c79a1485d41aa0a2e4ee45e3810",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/10",
+      "label": "10",
+      "sha256": "5b6dcef869828a15a9ddced17e9c795f141caa966727c2b14547eab5e20fb1fc",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/11",
+      "label": "11",
+      "sha256": "07ee6e68270fe161e8fb4d1191619d0073ab4b6a7230453d5120416241cea49a",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/12",
+      "label": "12",
+      "sha256": "cb968750a0c9895dd7e9152cd9e1314c2766d81f1854d75dc58f419afaa5b558",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13",
+      "label": "13",
+      "sha256": "a2e3ea3aa0926671de69fcbb756d4fb1efabd8fce99eba2443e1492c5c9fb00a",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/14",
+      "label": "14",
+      "sha256": "7c02a5179643ea62369b9ead7cae7369f4210fe0ba948ae0676645a6a8443f04",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/15",
+      "label": "15",
+      "sha256": "0c42a7db9b4e93ab8f8fe991446e5f36a38847ffb0a0432af6b472c2aa494ff4",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/16",
+      "label": "16",
+      "sha256": "9ad01325b8442ac43b198cfc4cb1ca9e0d7944fce25c7f52865bd29e6e758404",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/17",
+      "label": "17",
+      "sha256": "36811ab5582cf80e1b8409a74b1f3042f869fba71abdf7d91dc4d16bf673c245",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18",
+      "label": "18",
+      "sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/19",
+      "label": "19",
+      "sha256": "de47f93b9492ce756db0a8b5fd2b6c8ed78a760e986d00740b1e8005512ba5ed",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/20",
+      "label": "20",
+      "sha256": "56509ae8f05ad52df8770ac0260160042d483a524e2b78d0ca2a440d755ea6b5",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/21",
+      "label": "21",
+      "sha256": "5ce4e2bb7cd74a2e960b72764ffc1241f8f17f914762f145ec5d63346d35c3e1",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/22",
+      "label": "22",
+      "sha256": "fbef908f25a4ede5ee0db4ee290f0733df0156cc2b2807da83a0403eb54d5a51",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "label": "23",
+      "sha256": "1698f64a12e829194b4c49b37561e8447b66e2641cbfed9db4d189e19e159245",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24",
+      "label": "24",
+      "sha256": "26bb9b8c8d011a4e98cff893c58ad674cd096453ccacf7748dbeb8e5cf9af7d1",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/25",
+      "label": "25",
+      "sha256": "fcf1505663558d4062792ba4277bf0829d09aed8f310ef881c4568841ea627f9",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/26",
+      "label": "26",
+      "sha256": "8c97aa303786b6050682c7055ab071008e414f1ed40208fe0688215d537477d4",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/27",
+      "label": "27",
+      "sha256": "885c03186683187cc3b4f297eba597d948feecac211e2081ac8fcd0b8d820488",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/28",
+      "label": "28",
+      "sha256": "f4b5a7b7e05594d5d6a6cb55778874436950fab846a55dad0395dd7438334966",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29",
+      "label": "29",
+      "sha256": "54646289120ce359821d0b6c8d2edde54f61a1dda4c80b31a2fbe37c5e443315",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/30",
+      "label": "30",
+      "sha256": "f0f76f48637614819cabd9e9115bce11c830a54af9fe082f3b0d4052e9729c0a",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/31",
+      "label": "31",
+      "sha256": "d2c4439bcae7357785063b33e87b7c699e0db2b57693f961fd761803033ad2a1",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/32",
+      "label": "32",
+      "sha256": "67cf7a4f2e4f9e6ad237a8d3ea71f7445c293129117d61aa9641e8146d5c1ced",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/33",
+      "label": "33",
+      "sha256": "69cf376f7b72cd81d0214fe152da5aff3f2ace64626c43fa52467beff71210fe",
+      "content_role": "medical-education-text"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/34",
+      "label": "34",
+      "sha256": "ae7d9636e74f0fcdefa3f31c5760fbfd9619e4f7834f4cc3b9e0fdc6f0ef4b23",
+      "content_role": "volume-ending"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/35",
+      "label": "35",
+      "sha256": "b6efbaad1aff130d1df9685da9ca139c34b446cf740ea154178474710f16bc3c",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/36",
+      "label": "36",
+      "sha256": "163e3f677d8eafd0e1b88caaa786457cad3c33f099f326136aaec52d68195384",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}

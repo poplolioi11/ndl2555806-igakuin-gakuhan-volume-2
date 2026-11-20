@@ -1,0 +1,3932 @@
+{
+  "metadata": {
+    "title": "醫學院學範卷二",
+    "catalogue_title": "医学院学範 3巻. [2]",
+    "alternate_title": "Igakuin gakuhan, maki 2",
+    "roman_title": "Igakuin gakuhan, maki 2",
+    "author": "畑柳安惟和（Hata Ryūan）",
+    "date": "天明五、六年（1785、1786）序，據全書館目。",
+    "location": "日本",
+    "repository": "日本國立國會圖書館",
+    "repository_en": "National Diet Library, Japan",
+    "collection": "國立國會圖書館數位典藏",
+    "shelfmark": "特1-406",
+    "catalogue": "https://dl.ndl.go.jp/pid/2555806",
+    "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "description": "畑柳安的漢文醫學教育著作卷二，含〈醫學講習〉與歷代醫書評議。逐欄原圖定位並另錄可辨訓點。",
+    "manifest_url": "https://dl.ndl.go.jp/api/iiif/2555806/manifest.json",
+    "manifest_sha256": "61ffa079c572d83e4a6674a6cf44fe627bf9240414c08370e641f8d3294cf5c8",
+    "record_id": "NDL2555806",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "version": "0.1.0",
+    "dataset_title": "醫學院學範卷二（江戶時代刊本，日本國立國會圖書館 特1-406） / Igakuin gakuhan, maki 2 [Rules of the Medical Academy, volume two]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/1",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000001/full/2600,/0/default.jpg",
+      "label": "1",
+      "file": "01.jpg",
+      "bytes": 1208597,
+      "sha256": "2a711c13be49bea56d1b5e2ba6d4e5d2be36d42afc34ff76767fba0963fbb658",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "外封面題籤",
+              "text": "醫學院學範",
+              "column_anchor": null,
+              "color": "black"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "外封面題籤",
+              "text": "二",
+              "column_anchor": null,
+              "color": "black"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面右上館藏簽",
+              "text": "特1 406",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：前封題簽，卷數位於同直欄下部。圖旁色標、比例尺與掃描說明卡為攝影附具。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/2",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000002/full/2600,/0/default.jpg",
+      "label": "2",
+      "file": "02.jpg",
+      "bytes": 1355746,
+      "sha256": "e63e254676448efdf786a8928c956d7a2817432a2eae37a4b83d09d1717f7cee",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "右下藍色印記",
+              "text": "27.4.4",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "內護封題籤",
+              "text": "醫學院學範",
+              "column_anchor": null,
+              "color": "black"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "內護封題籤",
+              "text": "一",
+              "column_anchor": null,
+              "color": "black"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "內封右上館藏簽",
+              "text": "特1 406",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：前襯面無原正文。 左面：內題簽上端、左緣局部破裂。卷次位置僅一橫可辨，暫保留照形「一」，外封與卷首、卷末均作「二」。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/3",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000003/full/2600,/0/default.jpg",
+      "label": "3",
+      "file": "03.jpg",
+      "bytes": 1612318,
+      "sha256": "c076529d7720efc4938f75efce4fdb0b728f002cf11498e2763424d9a562c055",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "volume-opening",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "醫學院學範卷之二"
+            },
+            {
+              "text": "醫學院法印畑柳安惟和著"
+            },
+            {
+              "text": "醫學講習"
+            },
+            {
+              "text": "漢書詔侍醫李柱國校方技分四部醫經經方房中"
+            },
+            {
+              "text": "神僊也醫經者曰血脈經絡骨髓陰陽表裡以起百"
+            },
+            {
+              "text": "病之本死生之分而用度箴石湯火所施調百藥齊"
+            },
+            {
+              "text": "和之所宜也經方者曰本草石之寒溫量疾病之淺"
+            },
+            {
+              "text": "深假藥味之滋因氣感之宜以通閉解結反之於平"
+            },
+            {
+              "text": "房中者曰聖人制外樂以禁內情爲之節文神僊者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　一",
+              "column_anchor": 9,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：前襯無正文。下部紙有缺痕及淡透墨。 左面：署名與「醫學講習」之間一空欄可見透墨。上下朱印位於正文層之外。正文保留大字與實義附記，欄旁小型訓點及標記未逐點錄出。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/4",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000004/full/2600,/0/default.jpg",
+      "label": "4",
+      "file": "04.jpg",
+      "bytes": 1837565,
+      "sha256": "67cdaa824d2eeb56eac6277379f592cd5e7a536a553fe673bb133eab5ab4a246",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "曰所以保性命之眞也然房中神僊非疾醫之事且"
+            },
+            {
+              "text": "誕欺怪迂之文不可以爲敎故不取也今取醫經經"
+            },
+            {
+              "text": "方二部又加兒醫女醫瘍醫鍼灸本草爲七部"
+            },
+            {
+              "text": "醫經部"
+            },
+            {
+              "text": "素問　靈樞　難經　甲乙經　脈經"
+            },
+            {
+              "text": "漢書載醫經有黃帝白氏扁鵲內外經之目則古昔"
+            },
+            {
+              "text": "諸家皆有傳後世失其傳而其詳不可得而知焉今"
+            },
+            {
+              "text": "所傳素問靈樞固非古所傳之舊矣古人既稱其眞"
+            },
+            {
+              "text": "贋相雜蓋上古其師弟子相承親授口傳者後人始"
+            },
+            {
+              "text": "筆於書裒集醫巫群言冒以黃岐則宜哉其書之雜"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　一",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "且攙入附託之多難經亦非扁鵲之舊多呂楊之傳"
+            },
+            {
+              "text": "會可疑者甲乙經雖成於士安之手本多錯簡脫誤"
+            },
+            {
+              "text": "然古內經之要未經諸家之紊亂脈經集古醫經之"
+            },
+            {
+              "text": "脈法以脈病應察死生纖細密悉莫所不載焉故此"
+            },
+            {
+              "text": "二書敘於斯矣"
+            },
+            {
+              "text": "經方部"
+            },
+            {
+              "text": "傷寒論　金匱要略　肘後方　褚氏遺書"
+            },
+            {
+              "text": "病源候論　千金方　千金翼方　外臺秘要"
+            },
+            {
+              "text": "經方之書以傷寒論爲首方術之傳于世者莫古焉"
+            },
+            {
+              "text": "分脈證審輕重千態萬變莫不該備而遂成醫家萬"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　二",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右頁第七欄末「今」附近有蟲損。左頁第四欄「以脈病」「密悉」暫讀。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/5",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000005/full/2600,/0/default.jpg",
+      "label": "5",
+      "file": "05.jpg",
+      "bytes": 1821769,
+      "sha256": "2ede1f0761f9800dae6f62c3bee46a9182325a58aa3bd14f9c4e347c108bf04a",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "世之規則也千金外臺等博輯群方亦莫不循其規"
+            },
+            {
+              "text": "則學者當律諸長沙之則而後古法可論也古方可"
+            },
+            {
+              "text": "用也鄭樵通志曰于醫術類有經方有醫經亦自微"
+            },
+            {
+              "text": "有分別奈何後之人更不本此同爲醫經者乎足見"
+            },
+            {
+              "text": "後人之苟且也嗚呼知言哉醫經經方固不可相混"
+            },
+            {
+              "text": "也此方醫生亦不繹是等區處蚩蚩嘗其弊一至"
+            },
+            {
+              "text": "於廢醫經嘻得不大乖先賢之意乎"
+            },
+            {
+              "text": "聖惠方　聖濟總錄　和劑局方　本事方"
+            },
+            {
+              "text": "活人書　直指方　得效方　濟生方　醫說"
+            },
+            {
+              "text": "續醫說　名醫類案　證治要決　醫學綱目"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右頁第七欄下方雙行小注",
+              "text": "褚氏病源雖不載方／以古論故列於此",
+              "column_anchor": 10,
+              "color": "unknown",
+              "lines": [
+                "褚氏病源雖不載方",
+                "以古論故列於此"
+              ]
+            },
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　二",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "證治準繩　醫通　瘟疫論　醫畧"
+            },
+            {
+              "text": "講會餘須參考書"
+            },
+            {
+              "text": "御藥院方　楊氏家藏方　十便良方"
+            },
+            {
+              "text": "衛生家寶方　蘇沈內翰良方　魏氏家藏方"
+            },
+            {
+              "text": "百乙選方　三因方　易簡方　續易簡方"
+            },
+            {
+              "text": "宣明論　原病式　儒門事親　活方機要"
+            },
+            {
+              "text": "東垣十書　醫壘元戎　衛生寶鑑　十藥神書"
+            },
+            {
+              "text": "奇效良方　醫宗必讀　玉機微義　醫經小學"
+            },
+            {
+              "text": "醫學正傳　明醫雜著　袖珍方　丹溪纂要"
+            },
+            {
+              "text": "丹溪心法　醫林集要　石山醫案　傷寒六書"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左頁首欄末小字",
+              "text": "醫學院家書",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　三",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：書目一欄內有多題，依原分距用全形空格區隔。「百乙選方」依本圖暫讀。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/6",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000006/full/2600,/0/default.jpg",
+      "label": "6",
+      "file": "06.jpg",
+      "bytes": 1877187,
+      "sha256": "658e8dfa85249868ae5ee2a2535d68aff8209bda5d00fabf8f304e7eb471a5e8",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "條辨　薛己二十四種　醫學六要　古今醫統"
+            },
+            {
+              "text": "醫方考　赤水玄珠　景岳全書　醫約　粹言"
+            },
+            {
+              "text": "醫學入門　永類鈐方　醫燈續焰　軒岐救正論"
+            },
+            {
+              "text": "尚論　醫門法律　後條辨　醫方集解　原病集"
+            },
+            {
+              "text": "錦囊秘錄　證治大還　醫宗金鑑"
+            },
+            {
+              "text": "自軒岐以迄於今疾醫之道二盛二變一盛於周再"
+            },
+            {
+              "text": "盛於漢又再盛於唐其變者一變於宋再變於金元"
+            },
+            {
+              "text": "和緩扁鵲雄視於千古長沙莫以尚焉爾孫王集大"
+            },
+            {
+              "text": "成雲蒸龍奮上追周漢下薄隋唐宋有聖惠聖濟洪"
+            },
+            {
+              "text": "博無統愈出愈變繁乎龐雜無復規則及金元李朱"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　三",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "張劉醫傑勃興或外陽補陰或伐擊瀉火自開堂奧"
+            },
+            {
+              "text": "自立門戶雖所見各殊要之廢古貴新專而自用加"
+            },
+            {
+              "text": "之唐宋以降運氣勝復之說盛行于世古醫法掃地"
+            },
+            {
+              "text": "者二百年其流風靡然莫能革之明清之世雖俊才"
+            },
+            {
+              "text": "輩出合軌一轍竟不能振古規而超百世爲其辨正"
+            },
+            {
+              "text": "運氣者惟齊有褚澄明有王履穆仲醇一二人而已"
+            },
+            {
+              "text": "其它至陶華薛己龔廷賢等索古爲新名是而方非"
+            },
+            {
+              "text": "及孫一奎逐證作方辟之戰陳廢孫吳而棄紀律焉"
+            },
+            {
+              "text": "合之衆惡能制強敵哉其縱誕怪奇欺誣圖奔者至"
+            },
+            {
+              "text": "趙繼宗趙獻可及孫文胤朱□陳士鐸等而極矣"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　四",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 10,
+          "context": "□",
+          "candidates": [],
+          "note": "部分筆畫不清，原圖字形待核。"
+        }
+      ],
+      "observations": "左面：右頁第六欄「二盛」待覆核。左頁第九欄「圖奔」暫讀，第十欄「朱□」後有形近「嚞」字，暫缺。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/7",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000007/full/2600,/0/default.jpg",
+      "label": "7",
+      "file": "07.jpg",
+      "bytes": 1796649,
+      "sha256": "f06643837402340bee81ece597494ddf689cb0144d4255f0de7d823c0278ced5",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "女科"
+            },
+            {
+              "text": "婦人大全良方　女科準繩　濟陰綱目"
+            },
+            {
+              "text": "產寶百問　便產須知　保產萬全書　達生論"
+            },
+            {
+              "text": "漢書載女醫蓋古昔有專門其書莫傳長沙之書肇"
+            },
+            {
+              "text": "附載之以降千金外臺後世經方莫不載焉求子調"
+            },
+            {
+              "text": "經胎產法方學者最當審悉明辨而勿誤處治焉鄭"
+            },
+            {
+              "text": "樵通志載婦人書都一十七部唐咎殷產寶方二卷"
+            },
+            {
+              "text": "許仁則子母秘錄十卷及宋郭稽中產科保慶集等"
+            },
+            {
+              "text": "今並不存明金壇陳朝階奚囊便方載產帶　此邦"
+            },
+            {
+              "text": "俗所爲娠婦到五月則將帛束腹護胎謂之着帶者"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　四",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "閤相符合焉"
+            },
+            {
+              "text": "兒科"
+            },
+            {
+              "text": "幼幼新書　陳文仲方　錢仲陽方　活幼心法"
+            },
+            {
+              "text": "嬰童百問"
+            },
+            {
+              "text": "講會餘須參考書"
+            },
+            {
+              "text": "痘疹傳心錄　博愛心鑑　活幼全書　救偏瑣言"
+            },
+            {
+              "text": "保赤全書　痘科鍵　全幼心鑑　幼幼集成"
+            },
+            {
+              "text": "小方脈鄭樵通志所載四十有一部魏晉以降雖有"
+            },
+            {
+              "text": "專門之醫其詳不可得而聞焉千金外臺所載初生"
+            },
+            {
+              "text": "將護驚癎欬喉痺痢丹毒等嬰孺之病患莫不具備"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　五",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右頁第九欄「奚」「產帶」、左頁首欄「閤」與第十欄「欬」暫讀。兒科痘名見於歷史書目，散見訓點。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/8",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000008/full/2600,/0/default.jpg",
+      "label": "8",
+      "file": "08.jpg",
+      "bytes": 1814713,
+      "sha256": "01ba63c74b36b9e9942dd0c45923d72525731c8566bb54d7729a83a72f311a89",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "焉宋劉方明著幼幼新書顱顖經以降幼科之書悉"
+            },
+            {
+              "text": "類集之雖載痘疹之治未得詳明自錢陳二子出始"
+            },
+            {
+              "text": "有治論明暢然錢陳之治術冰炭相反互有得失焉"
+            },
+            {
+              "text": "明聶尚恒著活幼心法有所發明大醇小疵魏氏立"
+            },
+            {
+              "text": "逆順險三法嗚呼疑似最難辨盛虛亦易惑其治非"
+            },
+            {
+              "text": "講習討論屢診屢試惡能得至當之妙焉乎"
+            },
+            {
+              "text": "瘍科"
+            },
+            {
+              "text": "瘡瘍經驗全書　外科正宗　外科樞要"
+            },
+            {
+              "text": "外科百效全書　外科精要　外科集驗方"
+            },
+            {
+              "text": "外科大成　瘍科選粹"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　五",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "附"
+            },
+            {
+              "text": "龍木論　明目良方　眼科全書　銀海精微"
+            },
+            {
+              "text": "口齒類要　黴瘡秘錄　痧脹玉衡"
+            },
+            {
+              "text": "靈樞有癰疽篇長沙有腸癰法方通志有瘍科一十"
+            },
+            {
+              "text": "七部至千金外臺載瘍疽發背疔毒附骨疽瘻癭瘤"
+            },
+            {
+              "text": "等及金瘡墜墮折骨湯火而不及楊梅結毒蓋古昔"
+            },
+            {
+              "text": "鮮此病故方治闕如宋竇漢卿瘡瘍全書載黴瘡治"
+            },
+            {
+              "text": "驗方法是書出乎明竇夢麟重輯則其詳不可知焉"
+            },
+            {
+              "text": "至元明顓書累出如秘錄正宗明辨親驗其功鉅矣"
+            },
+            {
+              "text": "然其峻猛伐毒妄自權衡之亦不能無其弊焉如眼"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　六",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左頁第五欄「瘍疽」、第九欄「顓」暫讀。本幅在按門類評論醫書。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/9",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000009/full/2600,/0/default.jpg",
+      "label": "9",
+      "file": "09.jpg",
+      "bytes": 1826225,
+      "sha256": "7375ba78bc3f4e2b2ae67eb374871840b2c69c79a1485d41aa0a2e4ee45e3810",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "目口齒及痧脹雖非外治瘍科所關以有外藥手術"
+            },
+            {
+              "text": "刮放等治姑附列於茲云"
+            },
+            {
+              "text": "本草"
+            },
+            {
+              "text": "經史證類本草　本草綱目　救荒本草"
+            },
+            {
+              "text": "食物本草　大和本草"
+            },
+            {
+              "text": "講習餘須參考書"
+            },
+            {
+              "text": "本草經疏　本草原始　本草蒙筌　本草彙言"
+            },
+            {
+              "text": "本草之於醫方此不刊之典也漢書曰本草石之寒"
+            },
+            {
+              "text": "溫量病之淺深又曰達本草醫經本草之名所由而"
+            },
+            {
+              "text": "起漢魏以來皆傳其學古無方劑其可傳者唯是已"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　六",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "古本草雖漢史不載平帝記及樓護傳既有本草之"
+            },
+            {
+              "text": "名則藝文志其遺逸乎神農本草經三卷相傳至東"
+            },
+            {
+              "text": "漢所錄桐君採藥錄一卷說其花葉形色雷公藥對"
+            },
+            {
+              "text": "四卷論其佐使相須吳氏本草六卷唐經籍志錄之"
+            },
+            {
+              "text": "吳普魏廣陵人華陀弟子又李當之本草一卷藥錄"
+            },
+            {
+              "text": "六卷劉宋時有雷公炮炙論二卷梁陶弘景曰本經"
+            },
+            {
+              "text": "三品合三百六十五種爲主又進名醫別品三百六"
+            },
+            {
+              "text": "十五種爲名醫別錄七卷陶氏於本草雖有裨補乎"
+            },
+            {
+              "text": "謬誤亦不少朱子有言陶隱居南人而不識北藥說"
+            },
+            {
+              "text": "得差背底多又有藥總錄一卷藥性論四卷北齊徐"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　七",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左頁第五欄照版「華陀」，第八欄末「乎」暫讀。「炮炙論」為書名。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/10",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000010/full/2600,/0/default.jpg",
+      "label": "10",
+      "file": "10.jpg",
+      "bytes": 1884068,
+      "sha256": "5b6dcef869828a15a9ddced17e9c795f141caa966727c2b14547eab5e20fb1fc",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之才藥對一卷以衆藥名品性毒相反及所主疾病"
+            },
+            {
+              "text": "分類而記之唐高宗詔李世勣等增修本草較諸其"
+            },
+            {
+              "text": "古大有加爲二十卷顯慶中蘇恭欲重詳定上表"
+            },
+            {
+              "text": "請之因復命長孫無忌等二十一人與恭撰其差謬"
+            },
+            {
+              "text": "參考得失纂輯之增註之別爲藥圖二十五卷圖經"
+            },
+            {
+              "text": "七卷於是本草之業益精審而圖繪寫眞之所因而"
+            },
+            {
+              "text": "起甄權藥性論四卷甄立言本草音義七卷又有孟"
+            },
+            {
+              "text": "詵食療本草三卷說食藥治病之效張鼎補之陳藏"
+            },
+            {
+              "text": "器本草拾遺十卷纂陶蘇所遺逸考覈之精辨訂之"
+            },
+            {
+              "text": "正時珍屢稱本草以來一人而已李珣海藥本草二"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　七",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "卷南海藥譜一卷雜記南方產藥蕭炳四聲本草五"
+            },
+            {
+              "text": "卷以四聲相從便討閱楊振之刪繁本草五卷取精"
+            },
+            {
+              "text": "無刪不急杜善方本草性事類一卷隨類解釋又附"
+            },
+            {
+              "text": "藥製明皇天寶單方藥圖一卷孫思邈千金本草各"
+            },
+            {
+              "text": "殷食醫心鑑三卷段子嚴本草音義婁居中食治通"
+            },
+            {
+              "text": "說一卷南唐陳士良食性本草一卷古有食醫之官"
+            },
+            {
+              "text": "因所養以治百病凡食物之書古來衆多淮南王食"
+            },
+            {
+              "text": "經一百二十卷膳饋養療二十卷崔浩食經九卷倭"
+            },
+            {
+              "text": "名類聚所引崔禹錫食經等猶輓近食物本草歟蜀"
+            },
+            {
+              "text": "本草二十卷僞蜀主孟昶命其學士韓保昇等取唐"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　八",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：右頁第四欄「撰」、左頁第二欄末至第三欄首「取精無」暫讀。此處「藥製」為目錄評述中的詞。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/11",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000011/full/2600,/0/default.jpg",
+      "label": "11",
+      "file": "11.jpg",
+      "bytes": 1866400,
+      "sha256": "07ee6e68270fe161e8fb4d1191619d0073ab4b6a7230453d5120416241cea49a",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "本草及圖經參校增定日華子本草二十卷宋初開"
+            },
+            {
+              "text": "寶中四明人撰不著姓名但云日華子集諸家及近"
+            },
+            {
+              "text": "世所用效用甚悉宋太祖開寶六年命盧多遜劉翰"
+            },
+            {
+              "text": "道士馬志等詳校諸本仍取陳藏器拾遺等刋正增"
+            },
+            {
+              "text": "益二十卷爲開寶新詳定本草以所釋藥類或有未"
+            },
+            {
+              "text": "允明年復命劉翰馬志等重詳定頗增損本經以白"
+            },
+            {
+              "text": "字列之名醫所傳以墨字別之爲重定本草二十一"
+            },
+            {
+              "text": "卷仁宗嘉祐二年詔掌禹錫林億蘇頌等校正重修"
+            },
+            {
+              "text": "稱嘉祐補註本草二十一卷又有和劑局藥性總論"
+            },
+            {
+              "text": "許洪註之鄭樵通志本草益別錄三百六十以應周"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　八",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "天之數而二之仁宗詔天下郡縣圖上所產藥物命"
+            },
+            {
+              "text": "掌禹錫蘇頌等編集二十一卷爲圖經本草哲宗元"
+            },
+            {
+              "text": "祐中陳承合本草及圖經爲一名重廣本草圖經三"
+            },
+            {
+              "text": "十一卷文獻猶未足乎唐慎微因其見聞之所逮博"
+            },
+            {
+              "text": "采而備載之於諸本草圖經之外又得藥六百餘種"
+            },
+            {
+              "text": "益以諸家方書與夫經史傳記佛書道藏凡該明乎"
+            },
+            {
+              "text": "物品功用者各附於本藥之左本草之書於是莫有"
+            },
+            {
+              "text": "餘蘊焉大觀本草徽宗大觀二年校正之政和新修"
+            },
+            {
+              "text": "證類備用本草政和六年曹孝忠等所校刊寇宗奭"
+            },
+            {
+              "text": "本草衍義二十卷世醫既稱以諸藥配五行予獲是"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左頁第六欄「該明乎」暫讀。「刋」保留右頁第四欄原形。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/12",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000012/full/2600,/0/default.jpg",
+      "label": "12",
+      "file": "12.jpg",
+      "bytes": 1843778,
+      "sha256": "cb968750a0c9895dd7e9152cd9e1314c2766d81f1854d75dc58f419afaa5b558",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "書讀之序例所論以內經長沙爲準諸藥之辨駁謬"
+            },
+            {
+              "text": "疑正誤未嘗屑屑於空言至朱彦修爲衍義補遺每"
+            },
+            {
+              "text": "藥配五行意誤讀五氣定位則五味生而造是謬論"
+            },
+            {
+              "text": "耳世醫以彦修詆宗奭又何究也紹興本草高宗紹"
+            },
+            {
+              "text": "興中王繼先所校正理宗淳祐中命張存惠等校正"
+            },
+            {
+              "text": "重修政和證類備用本草二十一卷附以寇氏衍義"
+            },
+            {
+              "text": "又有風科本草一卷趙大中集諸本草治風藥品撰"
+            },
+            {
+              "text": "之至於明成化中原傑重定證類本草稱新刊大觀"
+            },
+            {
+              "text": "本草三十一卷商輅爲序嘉靖中陳鳳梧又重刊之"
+            },
+            {
+              "text": "大抵金元晚季醫說本草以新奇空理交倡之本草"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外欄版心",
+              "text": "學範卷二　九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "於是一變至李時珍本草綱目極該博舊本一千五"
+            },
+            {
+              "text": "百一十八種所增三百七十四種五十二卷可謂大"
+            },
+            {
+              "text": "備矣自以爲天下無遺藥然天地之廣六合之大物"
+            },
+            {
+              "text": "化與時變崩區形狀與書相違豈其可窮盡哉況華"
+            },
+            {
+              "text": "夷各異有無南北互有宜否　本邦群品之蕃殖有"
+            },
+            {
+              "text": "諸本草所不載惡可不精研詳致哉乎益軒大和本"
+            },
+            {
+              "text": "草所載千三百六十餘種若水庶物類纂爲書總一"
+            },
+            {
+              "text": "千卷嗚乎可謂勤矣然猶其所遺漏所幾誤不爲不"
+            },
+            {
+              "text": "多也且本草之外群籍方物諸州府志廣群芳譜物"
+            },
+            {
+              "text": "理小識通雅閩書南產志華夷花木鳥獸考等所記"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外欄版心",
+              "text": "學範卷二　十",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：左頁第四欄「崩區」與第八欄「所幾誤」暫讀。右頁「彦」保留能辨原形。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/13",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000013/full/2600,/0/default.jpg",
+      "label": "13",
+      "file": "13.jpg",
+      "bytes": 1815068,
+      "sha256": "a2e3ea3aa0926671de69fcbb756d4fb1efabd8fce99eba2443e1492c5c9fb00a",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "載愈出而愈精斯廼概見本草古今沿革而已鄭樵"
+            },
+            {
+              "text": "通志曰名醫別錄雖入陶隱君已收入本草其餘古"
+            },
+            {
+              "text": "本草或亡或存至唐慎微裒集大成本草要言多存"
+            },
+            {
+              "text": "其書可不徵諸夫本草者方劑之所出索其治功施"
+            },
+            {
+              "text": "之於疾病最要適實著明非恃多識之資而已矣"
+            },
+            {
+              "text": "鍼灸"
+            },
+            {
+              "text": "銅人鍼灸圖經　明堂鍼灸經　徐氏鍼灸經"
+            },
+            {
+              "text": "資生經　鍼灸聚英　神應經"
+            },
+            {
+              "text": "經腧選　十四經發揮"
+            },
+            {
+              "text": "上古未有藥物聖人制砭燔之法以活生民通志有"
+            }
+          ],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "右九小字（經腧選下）",
+              "text": "御園氏家書",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　八",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "明堂鍼灸六十部自本州出有湯液醪醴之方故尚"
+            },
+            {
+              "text": "書載瞑眩之言聖人有未達之語鍼灸之法內經論"
+            },
+            {
+              "text": "之詳審史記載扁鵲之言曰疾在腠理熨燔之所及"
+            },
+            {
+              "text": "在血脉鍼灸之所及其在腸胃酒醪之所及是鍼灸"
+            },
+            {
+              "text": "藥二者得備而後可與言醫已我　東古昔名醫聿"
+            },
+            {
+              "text": "出方脉祕授相傳偶有其灸法流傳中土者明成和"
+            },
+            {
+              "text": "九年　日本信州隱士良心者㗑畠山氏使命謁明"
+            },
+            {
+              "text": "帝獻神應經又傳　日本神醫和介氏丹波氏八穴"
+            },
+            {
+              "text": "之灸法載在神應經嗟乎是雖醫門之土苴亦足以"
+            },
+            {
+              "text": "概見我　東古昔名醫有祕授之法耳"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "聿",
+          "candidates": [],
+          "note": "只錄漢文正文與一處可辨原刻小字，密集旁訓、返點無全錄。左五末「聿」、左七「㗑」、左八「介」待核原刻；右一「廼」隨刻留。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "㗑",
+          "candidates": [],
+          "note": "只錄漢文正文與一處可辨原刻小字，密集旁訓、返點無全錄。左五末「聿」、左七「㗑」、左八「介」待核原刻；右一「廼」隨刻留。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "介",
+          "candidates": [],
+          "note": "只錄漢文正文與一處可辨原刻小字，密集旁訓、返點無全錄。左五末「聿」、左七「㗑」、左八「介」待核原刻；右一「廼」隨刻留。"
+        }
+      ],
+      "observations": "左面：只錄漢文正文與一處可辨原刻小字，密集旁訓、返點無全錄。左五末「聿」、左七「㗑」、左八「介」待核原刻；右一「廼」隨刻留。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/14",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000014/full/2600,/0/default.jpg",
+      "label": "14",
+      "file": "14.jpg",
+      "bytes": 1852415,
+      "sha256": "7c02a5179643ea62369b9ead7cae7369f4210fe0ba948ae0676645a6a8443f04",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "醫籍"
+            },
+            {
+              "text": "素問　靈樞"
+            },
+            {
+              "text": "醫法之書傳于世者無古於內經焉素問九卷鍼經"
+            },
+            {
+              "text": "九卷漢書所載黃帝內經十八卷是也隋書稱九靈"
+            },
+            {
+              "text": "唐王氷名靈樞晉皇甫謐選其要作甲乙經可見古"
+            },
+            {
+              "text": "內經之概畧為隋楊上善作大素及全元起註解今"
+            },
+            {
+              "text": "既以逸王氷為次註換編次攙入傳會以足九九數"
+            },
+            {
+              "text": "真偽難辨疑竇百出且其七篇文義體裁自別也氷"
+            },
+            {
+              "text": "自言所加皆朱書使分今古不雜糅然今所傳印本"
+            },
+            {
+              "text": "朱墨不可得而分淆亂失舊可疑者最多況運氣勝"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "復之說成于六朝以後非素問之舊亦無益於治療"
+            },
+            {
+              "text": "而有誤乎學者明繆仲淳辨之詳矣可謂卓識也宋"
+            },
+            {
+              "text": "元明清諸醫不察之奉以為金科玉條者何也元滑"
+            },
+            {
+              "text": "壽明馬元臺張介賓汪石山吳崑李仲梓為註解清"
+            },
+            {
+              "text": "張志聰高士宗汪昂等亦各有註說從文解義不能"
+            },
+            {
+              "text": "斷棄運氣勝復其他不勝雷同學者須真中辨疑偽"
+            },
+            {
+              "text": "中認真於醫法之言無干渉者斷不取焉"
+            },
+            {
+              "text": "八十一難經"
+            },
+            {
+              "text": "世之論難經者以史記扁鵲傳不載且其書背馳於"
+            },
+            {
+              "text": "內經或疑為者要之非能識難經者蓋扁鵲之於醫"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "辨",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右七「攙」、左六「辨」形待核；左十「疑為者」原欄見如此，疑「為」下是否省略。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "疑為者",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右七「攙」、左六「辨」形待核；左十「疑為者」原欄見如此，疑「為」下是否省略。"
+        },
+        {
+          "side": "left",
+          "column": null,
+          "context": "為",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右七「攙」、左六「辨」形待核；左十「疑為者」原欄見如此，疑「為」下是否省略。"
+        }
+      ],
+      "observations": "左面：旁訓、返點無全錄。右七「攙」、左六「辨」形待核；左十「疑為者」原欄見如此，疑「為」下是否省略。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/15",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000015/full/2600,/0/default.jpg",
+      "label": "15",
+      "file": "15.jpg",
+      "bytes": 1873937,
+      "sha256": "0c42a7db9b4e93ab8f8fe991446e5f36a38847ffb0a0432af6b472c2aa494ff4",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "其施設之間奇絕妙筭未必無復出常情其微言要"
+            },
+            {
+              "text": "妙布在于難經後人所不能擬議也苟有能考能索"
+            },
+            {
+              "text": "知擴而施之則工巧明察於焉至矣精妙術知於焉"
+            },
+            {
+              "text": "出矣此廼扁鵲之家法而所謂歷世傳之一人者歟"
+            },
+            {
+              "text": "豈得皆合轍於內經而後以為眞為乎別一書本多"
+            },
+            {
+              "text": "錯簡傳托或史記倉公傳云傳扁鵲書漢志亦有扁"
+            },
+            {
+              "text": "鵲內外經文獻通考曰秦越人撰吳呂廣註唐楊玄"
+            },
+            {
+              "text": "操演自隋唐經籍藝文志俱載為扁鵲書然今所傳"
+            },
+            {
+              "text": "眞贋相雜寅生之說出于淮南子間傳之言拘乎勝"
+            },
+            {
+              "text": "復其他迂者巫者推之事實不見効者或成乎呂楊"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "傳會亦未可知焉則學者宜勿失于拘泥而流于虛"
+            },
+            {
+              "text": "遠矣唐王勃傳之為序宋丁德用虞庶為註元滑壽"
+            },
+            {
+              "text": "為本義明清諸家亦各有解未得明論焉"
+            },
+            {
+              "text": "傷寒論"
+            },
+            {
+              "text": "仲景之於醫術也千載一人其書炳如日星法方之"
+            },
+            {
+              "text": "妙要傷寒之繩墨百病之規則陰陽統名而表裏明"
+            },
+            {
+              "text": "為法方合符而治術立焉以至轉屬傳過合併機變"
+            },
+            {
+              "text": "真假壞復先後齊服分量煮法鍼灸凡去病安生治"
+            },
+            {
+              "text": "療之術莫不備載為後來醫法雖時有異同得失而"
+            },
+            {
+              "text": "宏綱大要後世永賴不能復出其範圍焉豈翹羣方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十一",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "復",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「復」、右五「眞為」、右十「迂」保留待核。左八原刻「齊」字形待核。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "齊",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「復」、右五「眞為」、右十「迂」保留待核。左八原刻「齊」字形待核。"
+        }
+      ],
+      "observations": "左面：旁訓、返點無全錄。右一「復」、右五「眞為」、右十「迂」保留待核。左八原刻「齊」字形待核。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/16",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000016/full/2600,/0/default.jpg",
+      "label": "16",
+      "file": "16.jpg",
+      "bytes": 1881770,
+      "sha256": "9ad01325b8442ac43b198cfc4cb1ca9e0d7944fce25c7f52865bd29e6e758404",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之祖已哉乃醫法之所以立也晉王叔和傳之銓次"
+            },
+            {
+              "text": "叔和去仲景不遠雖有殘闕錯簡乎編次猶依其舊"
+            },
+            {
+              "text": "如或間脉法例言等叔和之言遂與本論相比附者"
+            },
+            {
+              "text": "文理自別不俟辨焉夫仲景之術法律甚嚴而不可"
+            },
+            {
+              "text": "犯焉機變運用莫行而非活法矣知其大者小者自"
+            },
+            {
+              "text": "至所謂智者過焉不肖者不及焉難矣乎得其至當"
+            },
+            {
+              "text": "也若夫拘縛章句死法者不足與倶論之千金外臺"
+            },
+            {
+              "text": "古明醫亦舍是莫能為為宋仁宗校正傳之今有賴"
+            },
+            {
+              "text": "焉長沙之術至矣哉朱肱著百問後名活人書為宋"
+            },
+            {
+              "text": "道方所駁未臻閫奧成無已為註著明理論猶依舊"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十一",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "貫如龐安常許叔微錚錚可觀韓祗和王寔杜清碧"
+            },
+            {
+              "text": "錢聞禮湯尹才李知先皆嘐嘐相軋金元有李慶嗣"
+            },
+            {
+              "text": "吳恕程德齋緣飾雷同迺至劉守眞李明之取論是"
+            },
+            {
+              "text": "務運氣越經鑿空反古王好古王履僅僅乎若可據"
+            },
+            {
+              "text": "者明陶華王肯堂有援古以慨今之意真綬王三陽"
+            },
+            {
+              "text": "陸彥功童幼學趙開美張卿子屑屑論說而已如方"
+            },
+            {
+              "text": "有執取權衡於臆不依舊貫恣革編次以罵叔和為"
+            },
+            {
+              "text": "高焉兪昌從而和之古經於是紊亂碎殘極矣汪昂"
+            },
+            {
+              "text": "徐彬石頑程効倩陳養晦錢天來張志聰末流之弊"
+            },
+            {
+              "text": "豈有學而不試乎若夫戴復庵三陽失序論有所見"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十二",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：旁訓、返點無全錄。右七「倶」、右十「閫」及左一「王寔」、左二「嘐嘐」、左五「真綬」、左九「効」待高清覆核。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/17",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000017/full/2600,/0/default.jpg",
+      "label": "17",
+      "file": "17.jpg",
+      "bytes": 1852542,
+      "sha256": "36811ab5582cf80e1b8409a74b1f3042f869fba71abdf7d91dc4d16bf673c245",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "焉如趙繼宗臆斷邪說劉章竄傳足不傳乎論鑿空"
+            },
+            {
+              "text": "捕風古人既辨正之學者須徵諸經試諸術而後長"
+            },
+            {
+              "text": "沙之法得而論也"
+            },
+            {
+              "text": "金匱要略"
+            },
+            {
+              "text": "金匱要略方原係傷寒論中以逸者失傳久矣宋王"
+            },
+            {
+              "text": "洙偶得之蠹簡中補綴編錄以傳之名曰金匱方論"
+            },
+            {
+              "text": "其議論與長沙不合者是必王洙之傳會林億等校"
+            },
+            {
+              "text": "理附方取於千金外臺後至元復名金匱玉函要略"
+            },
+            {
+              "text": "方皆後人美稱之已高保衡孫奇林億以為雜病論"
+            },
+            {
+              "text": "六卷亡逸者別有玉函經疑後人之贋不俟辨焉晚"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十二",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "近高士宗直解徐南目編註徐忠可論註徒事調停"
+            },
+            {
+              "text": "亦不能擇崑玉於魚目也"
+            },
+            {
+              "text": "脉經"
+            },
+            {
+              "text": "脉經者晉太醫令王叔和所述撰集內經以下扁鵲"
+            },
+            {
+              "text": "倉公張長沙華陀之脉法旁取諸家之說夫脉者胚"
+            },
+            {
+              "text": "胎之始血氣已具則其發顯活動者於諸經絡莫所"
+            },
+            {
+              "text": "不有焉得水穀而其氣益盛矣譬如烹物水火之氣"
+            },
+            {
+              "text": "莫所不達而烟蒸之氣如脉動單取其統會於喉傍"
+            },
+            {
+              "text": "與掌後者內經之診法也扁鵲方戰國之世喉傍之"
+            },
+            {
+              "text": "診嫌於刺客故獨取于寸口以決死生焉而喉傍之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十三",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 1,
+          "context": "徐南目",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「竄傳」及右六「蠹」待回圖。左一「徐南目」依現讀，不據人名改。左七「譬」待核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "譬",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「竄傳」及右六「蠹」待回圖。左一「徐南目」依現讀，不據人名改。左七「譬」待核。"
+        }
+      ],
+      "observations": "左面：旁訓、返點無全錄。右一「竄傳」及右六「蠹」待回圖。左一「徐南目」依現讀，不據人名改。左七「譬」待核。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/18",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000018/full/2600,/0/default.jpg",
+      "label": "18",
+      "file": "18.jpg",
+      "bytes": 1882513,
+      "sha256": "470222c0caf07e2981781a7547f096823ce247db4d013a3bda30feed6380568a",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "診遂廢且與其關名及腎間之診昉自扁鵲至張長"
+            },
+            {
+              "text": "沙其法簡而要明而悉寸口尺中之外有以陰蹻陽"
+            },
+            {
+              "text": "之診手足上下委曲詳審脉必由證證必由脉浮沈"
+            },
+            {
+              "text": "之於表裏遲數之於寒熱緩為中風緊為傷寒及滑"
+            },
+            {
+              "text": "濇絃洪微細乳伏促結等統之以陰陽虛實輕重斷"
+            },
+            {
+              "text": "然無復可疑者可謂診法大備焉如其標舉榮章等"
+            },
+            {
+              "text": "怪奇之診名及七表八裏九道之說叔和取諸家之"
+            },
+            {
+              "text": "說臆私擬度者大低是書說纖悉精微者及達正路"
+            },
+            {
+              "text": "別乎旺相勝復迂怪謬論不遑枚舉學者須舍諸家"
+            },
+            {
+              "text": "妄誕遵內經扁鵲長沙之規則以悟其運用之妙焉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十三",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "中藏經"
+            },
+            {
+              "text": "華陀之於醫自是別術刳腹洗腸奇異怪誕史之所"
+            },
+            {
+              "text": "載不可悉信又不可為訓也醫中之異端已中藏經"
+            },
+            {
+              "text": "八卷論說淺庸紕漏難掩吳普鄧生之徒假托傳之"
+            },
+            {
+              "text": "古人已稱其贋為兪子容以為鄧處中僞撰"
+            },
+            {
+              "text": "甲乙經"
+            },
+            {
+              "text": "晉皇甫謐字士安號玄晏先生儒而醫博識沈靜有"
+            },
+            {
+              "text": "病風聾因而學醫遂至精妙取素問鍼經明堂三部"
+            },
+            {
+              "text": "刪其浮辭論釋精要為甲乙經十二卷雖脫簡已多"
+            },
+            {
+              "text": "未經後人傳會錯亂運氣二火論說攙入猶可以觀"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十四",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 10,
+          "context": "觀",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「昉」、右二「蹻」、右五「濇」「乳」、右六「標舉榮章」、右八「低」、右十「妄」待覆核；左末「觀」字待核。左二為作者評論史傳的通稱。"
+        }
+      ],
+      "observations": "左面：旁訓、返點無全錄。右一「昉」、右二「蹻」、右五「濇」「乳」、右六「標舉榮章」、右八「低」、右十「妄」待覆核；左末「觀」字待核。左二為作者評論史傳的通稱。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/19",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000019/full/2600,/0/default.jpg",
+      "label": "19",
+      "file": "19.jpg",
+      "bytes": 1819758,
+      "sha256": "de47f93b9492ce756db0a8b5fd2b6c8ed78a760e986d00740b1e8005512ba5ed",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "古醫經之概畧者賴是書之存焉至宋林億等校正"
+            },
+            {
+              "text": "傳之"
+            },
+            {
+              "text": "肘後方"
+            },
+            {
+              "text": "肘後百一方二卷晉葛洪撰梁陶弘景增補後又楊"
+            },
+            {
+              "text": "用道以附方錄之以單方行率以易得之藥救急卒"
+            },
+            {
+              "text": "病故本名救卒方單治之所祖所謂離陌之間顛盻"
+            },
+            {
+              "text": "皆藥民庶不可缺之書也然闕漏甚多疑實亦不必"
+            },
+            {
+              "text": "學者須擇其正焉"
+            },
+            {
+              "text": "病源候論"
+            },
+            {
+              "text": "隋巢元方病源候論五十卷受詔撰之唐宋舊制醫"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十四",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "學監局用是書課試學者故千金外臺及聖惠聖濟"
+            },
+            {
+              "text": "等不得皆不原于此病論研精不針鑱搯引湯熨而"
+            },
+            {
+              "text": "不載方藥自謂別有正方補養宣導而今所傳書不"
+            },
+            {
+              "text": "見正方疑其以逸乎將編錄未就乎不可知也"
+            },
+            {
+              "text": "禇氏遺書"
+            },
+            {
+              "text": "南齊書禇澄傳曰禇澄字彥通尚宋文帝女廬江公"
+            },
+            {
+              "text": "主拜駙馬都尉歷官清顯善醫術所著醫論十篇世"
+            },
+            {
+              "text": "稱禇氏遺書是亦一家之言多發明其所謂心以役"
+            },
+            {
+              "text": "氣肺以通氣脾以養氣腎以瀉氣惟肝不用此廼相"
+            },
+            {
+              "text": "傳之說兪子容以與今素問不合不取者非也論五"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十五",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：旁訓、返點無全錄。右六「離陌」「顛盻」、左二「針鑱搯引」、左五與左六「禇」的偏旁與首一「彥」待覆核。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/20",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000020/full/2600,/0/default.jpg",
+      "label": "20",
+      "file": "20.jpg",
+      "bytes": 1868033,
+      "sha256": "56509ae8f05ad52df8770ac0260160042d483a524e2b78d0ca2a440d755ea6b5",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "運六氣兪扁弗議淳華未發吾未見其是也或後書"
+            },
+            {
+              "text": "之托名於聖喆也是則先繆仲淳而著較為可謂卓"
+            },
+            {
+              "text": "識矣如論女脉逆行自地動右轉而推之諸脉書所"
+            },
+            {
+              "text": "不論男女豈有一焉乎一時取諸臆而不深考已矣"
+            },
+            {
+              "text": "千金方　翼方"
+            },
+            {
+              "text": "唐書孫思邈傳曰思邈於陰陽推步醫藥無不善孟"
+            },
+            {
+              "text": "詵盧照鄰等師事之初魏徵等修五代史屢咨所遺"
+            },
+            {
+              "text": "其傳最詳其為世人所貴重如是而劉昫列之方技"
+            },
+            {
+              "text": "此以技累德可惜也文獻通考曰千金方三十卷唐"
+            },
+            {
+              "text": "孫思邈撰又著翼方三十卷掇集其遺逸其書奇方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十五",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "經驗不可極盡焉長沙之後如郭玉徐文伯姚僧垣"
+            },
+            {
+              "text": "張文仲許胤宗精技妙術漢魏以降不乏良醫而其"
+            },
+            {
+              "text": "書不傳可惜也而千金多收錄之古方之傳於百世"
+            },
+            {
+              "text": "者實其功不亦偉哉去古愈遠刻本譌誤脫漏頗不"
+            },
+            {
+              "text": "少況翻刻數度缺漏益多須獲宋板善本校讎之"
+            },
+            {
+              "text": "外臺祕要方"
+            },
+            {
+              "text": "唐王燾在臺閣二十餘載久知弘文館圖籍方書繽"
+            },
+            {
+              "text": "是觀奧探祕皆得其要凡其所纂古方五六十家新"
+            },
+            {
+              "text": "撰者數十百卷艾刈繁蕪採掇至要撰述外臺祕要"
+            },
+            {
+              "text": "方四十卷大抵古醫方如博濟聖苑小品梅師深師"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十六",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：旁訓、返點無全錄。右二「較」及右十「奇方」的「奇」待回圖；左三「燾」、左七「繽」、左九「艾」、左末「苑」待辨。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/21",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000021/full/2600,/0/default.jpg",
+      "label": "21",
+      "file": "21.jpg",
+      "bytes": 1869267,
+      "sha256": "5ce4e2bb7cd74a2e960b72764ffc1241f8f17f914762f145ec5d63346d35c3e1",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "廣濟集驗刪繁近効支法存范汪延年胡洽必効主"
+            },
+            {
+              "text": "門楊師廣利傳信靈寶普救兵部古今錄驗崔氏孫"
+            },
+            {
+              "text": "氏張文仲許仁則等今皆烏有王燾拾掇遺闕祕要"
+            },
+            {
+              "text": "隱微漢魏以下之方包括無遺足以驗諸今而知古"
+            },
+            {
+              "text": "方之精妙其有功於醫門豈淺淺哉且舍鍼而取灸"
+            },
+            {
+              "text": "古經已有其說非昉於燾焉況非顓門之業其所見"
+            },
+            {
+              "text": "豈得無少輕軒乎宋刻中土以逸既久焉今所傳明"
+            },
+            {
+              "text": "程敬通所刻訛舛頗多　本邦近載脇氏與望氏探"
+            },
+            {
+              "text": "宋板於天祿校刻行之可謂醫家至寶矣"
+            },
+            {
+              "text": "聖惠方　聖濟總錄　和劑局方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十六",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "先王仁澤之治爰及醫藥以壽天下之民周官設疾"
+            },
+            {
+              "text": "醫之職以降歷朝皆有其政而無盛於宋焉凡人主"
+            },
+            {
+              "text": "之用志於醫藥古今莫比焉大索醫方於天下撰大"
+            },
+            {
+              "text": "平聖惠方一百卷聖濟總錄二百卷下勅校讎古醫"
+            },
+            {
+              "text": "書又設大醫局撰和劑方以恤民瘼豈可不謂深仁"
+            },
+            {
+              "text": "厚澤哉然此皆儒臣之所鳩集製方以待病愈出愈"
+            },
+            {
+              "text": "雜無復規則且無變通之說安可獲機活運用之妙"
+            },
+            {
+              "text": "哉所以有金華刻舟按圖之譏也其流風餘波被于"
+            },
+            {
+              "text": "一世楊魏朱郭薛沈方溫等各自有集方書不循規"
+            },
+            {
+              "text": "則不師古昔於是乎顓門之學廢而長沙之法泯焉"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十七",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：旁訓、返點無全錄。右三「祕要」的細字層待確定；右七「少」「以」、右八「載」「脇」、左四「勅」、左七「獲」、左九「薛」待回圖。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/22",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000022/full/2600,/0/default.jpg",
+      "label": "22",
+      "file": "22.jpg",
+      "bytes": 1835112,
+      "sha256": "fbef908f25a4ede5ee0db4ee290f0733df0156cc2b2807da83a0403eb54d5a51",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "方與法舛玉石並收蕭蘭混臭雖然以天子之尊及"
+            },
+            {
+              "text": "方技之細仁贊化育德及後世可謂能盡其心矣聖"
+            },
+            {
+              "text": "惠聖劑卷帙浩博宋板元刻中土既湮沒四百餘年"
+            },
+            {
+              "text": "清程雲來有總錄纂要而全書不傳　本邦幸存二"
+            },
+            {
+              "text": "書全本余亦藏之聖惠方濃藩馬氏讎校授諸剞劂"
+            },
+            {
+              "text": "氏昇平二百年文化駸駸古書往往有梓之昭代盛"
+            },
+            {
+              "text": "事可不嘉之哉"
+            },
+            {
+              "text": "本事方"
+            },
+            {
+              "text": "宋維陽許叔微字知可所撰取平日已試効之方併"
+            },
+            {
+              "text": "記其事實以為是書前後二十卷取孟啓本事詩之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十七",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "例以名普濟本事方詳文獻通考其治論循長沙之"
+            },
+            {
+              "text": "門牆有採觀也辨氣厥於中風分腸風乎藏毒及滋"
+            },
+            {
+              "text": "潤益腎鼓脹驚癎五蟲痔蟲等旁通諸家有發明超"
+            },
+            {
+              "text": "見刻本孝忠所校正猶多謬誤脫漏余偶獲華本以"
+            },
+            {
+              "text": "校之正字補缺而後可讀之也"
+            },
+            {
+              "text": "三因方"
+            },
+            {
+              "text": "宋括蒼陳言字無擇撰三因極一方六卷自言儻識"
+            },
+            {
+              "text": "三因病無復餘蘊醫事之要無出于此也三因之說"
+            },
+            {
+              "text": "本出于長沙非昉乎陳言其所論以徵瘕屬肝以積"
+            },
+            {
+              "text": "聚屬肺及五獸癎有馬無犬有胃無腎等種種邪說"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十八",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "左面：旁訓、返點無全錄。右四末「二」及右五「讎」、右十「孟啓」待回圖；左三「痔蟲」、左七「儻」、左九「徵瘕」保留初讀待覆核。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/23",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000023/full/2600,/0/default.jpg",
+      "label": "23",
+      "file": "23.jpg",
+      "bytes": 1872940,
+      "sha256": "1698f64a12e829194b4c49b37561e8447b66e2641cbfed9db4d189e19e159245",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "可謂捕風無益之言已大低醫之要須診察脉證辨"
+            },
+            {
+              "text": "識病因最貴適實著明而未必求諸迂曲怪異也三"
+            },
+            {
+              "text": "因之說雖得而詳之至如其妙處機活豈可以拘泥"
+            },
+            {
+              "text": "配當謬論得之乎哉況主張運氣二火遵徐遁之妄"
+            },
+            {
+              "text": "倡三焦有形之邪說熒惑學者何其陋也後學童習"
+            },
+            {
+              "text": "白紛終不能使其出頭為元明醫流倀倀然亦莫能"
+            },
+            {
+              "text": "革正之終乃回護調停所以今有陰陽有餘不足君"
+            },
+            {
+              "text": "相龍雷等之說出而堅白譎奇無有低止也自斯之"
+            },
+            {
+              "text": "後醫法與古背馳矣大凡宋以後之書能合長沙之"
+            },
+            {
+              "text": "規度者幾希然雖此之所失而彼存焉者間亦有之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十八",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "則似乎未可全擯斥之也至如虛妄不可信者大害"
+            },
+            {
+              "text": "於治術而無益乎醫事學者其擇諸"
+            },
+            {
+              "text": "幼幼新書"
+            },
+            {
+              "text": "宋劉昉字方明撰幼幼新書四十卷刊未畢而死徐"
+            },
+            {
+              "text": "摶字壽卿成之李庚序之夫小兒顓門鄭樵通志所"
+            },
+            {
+              "text": "載四十一部晉以來江左有兪氏療小兒方徐叔響"
+            },
+            {
+              "text": "療少小百病方又療少小疹方王末療小兒雜方徐"
+            },
+            {
+              "text": "氏少小方療小兒丹方鄭端全嬰方六養父嬰孺方"
+            },
+            {
+              "text": "劉氏小兒瘡子方譚子小兒方嬰童寶鑑等今並不"
+            },
+            {
+              "text": "存此書裒集古方顱顖經以後是書以前書皆編入"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "摶",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右六首「白」候選「自」及「倀倀」、右七「回」、左五「摶」「庚」、左六「響」、左七「王末」、左八「六養父」、左十「顱顖」待回圖。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "庚",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右六首「白」候選「自」及「倀倀」、右七「回」、左五「摶」「庚」、左六「響」、左七「王末」、左八「六養父」、左十「顱顖」待回圖。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "響",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右六首「白」候選「自」及「倀倀」、右七「回」、左五「摶」「庚」、左六「響」、左七「王末」、左八「六養父」、左十「顱顖」待回圖。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "王末",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右六首「白」候選「自」及「倀倀」、右七「回」、左五「摶」「庚」、左六「響」、左七「王末」、左八「六養父」、左十「顱顖」待回圖。"
+        },
+        {
+          "side": "left",
+          "column": 8,
+          "context": "六養父",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右六首「白」候選「自」及「倀倀」、右七「回」、左五「摶」「庚」、左六「響」、左七「王末」、左八「六養父」、左十「顱顖」待回圖。"
+        },
+        {
+          "side": "left",
+          "column": 10,
+          "context": "顱顖",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右六首「白」候選「自」及「倀倀」、右七「回」、左五「摶」「庚」、左六「響」、左七「王末」、左八「六養父」、左十「顱顖」待回圖。"
+        }
+      ],
+      "observations": "左面：旁訓、返點無全錄。右六首「白」候選「自」及「倀倀」、右七「回」、左五「摶」「庚」、左六「響」、左七「王末」、左八「六養父」、左十「顱顖」待回圖。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/24",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000024/full/2600,/0/default.jpg",
+      "label": "24",
+      "file": "24.jpg",
+      "bytes": 1846485,
+      "sha256": "26bb9b8c8d011a4e98cff893c58ad674cd096453ccacf7748dbeb8e5cf9af7d1",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "且三關錦紋門載八段錦脉所引水鑑楊大鄴杜氏"
+            },
+            {
+              "text": "各一宗八圖後世稱虎口三關是書為始世以為昉"
+            },
+            {
+              "text": "乎冠美非也是書嬰孺緊要經兵燹而以失殆二百"
+            },
+            {
+              "text": "年明陳履端奉其父遺意求之刻苦二十餘年漸集"
+            },
+            {
+              "text": "散逸終為完璧王世貞述其始末為之序"
+            },
+            {
+              "text": "活人書"
+            },
+            {
+              "text": "宋奉議郎朱肱號無求子以長沙傷寒論分類問答"
+            },
+            {
+              "text": "以撰是書本號傷寒百問方後增益之比百問十倍"
+            },
+            {
+              "text": "武夷張蔵作序名南陽活人書仲景南陽人而活人"
+            },
+            {
+              "text": "者本華佗語也肱之為是書嘗過洪州名醫宋道方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　十九",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "因就質之宋為指駁數十條肱固然自失難矣傷寒"
+            },
+            {
+              "text": "之解也雖雋英之才不能無疎謬矧乎淺識之徒焉"
+            },
+            {
+              "text": "知玄奧乎哉又宋錢聞禮傷寒百問歌湯尹才解惑"
+            },
+            {
+              "text": "論李知先活人指掌圖明童養學補註辨疑咸本肱"
+            },
+            {
+              "text": "書回護調停迷搜猜摸竟歸無要領惜哉"
+            },
+            {
+              "text": "古今錄驗養生必用方"
+            },
+            {
+              "text": "宋紹聖間初虞世所撰古今錄驗養生必用方三卷"
+            },
+            {
+              "text": "治論簡易明辨崇尊長沙之家法因謂萬世學者皆"
+            },
+            {
+              "text": "當慎守之而不可換其訓可謂卓識焉哉"
+            },
+            {
+              "text": "楊氏家藏方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "版心",
+              "text": "學範卷二　二十",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": 2,
+          "context": "雋",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "辨疑",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。"
+        },
+        {
+          "side": "left",
+          "column": 5,
+          "context": "迷搜",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。"
+        },
+        {
+          "side": "left",
+          "column": 7,
+          "context": "虞",
+          "candidates": [],
+          "note": "旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。"
+        }
+      ],
+      "observations": "左面：旁訓、返點無全錄。右一「楊大鄴」、右三「冠美」「以」、右九「蔵」、左二「雋」、左四「辨疑」、左五「迷搜」、左七「虞」待覆核。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/25",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000025/full/2600,/0/default.jpg",
+      "label": "25",
+      "file": "25.jpg",
+      "bytes": 1752724,
+      "sha256": "fcf1505663558d4062792ba4277bf0829d09aed8f310ef881c4568841ea627f9",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "宋淳熙間代郡人楊倓字子請家藏方二十卷載方"
+            },
+            {
+              "text": "一千一百有一十首蓋士大夫之所聚有方無論楊"
+            },
+            {
+              "text": "倓自言余家藏方甚多皆先和武恭王及余經用與"
+            },
+            {
+              "text": "耳目所見聞嘗驗者也集天下良醫所長以待倉卒"
+            },
+            {
+              "text": "之用不亦慈父孝子之心乎"
+            },
+            {
+              "text": "簡易方"
+            },
+            {
+              "text": "宋黎民壽著簡易方又併斷病提綱訣脉精要玉函"
+            },
+            {
+              "text": "經註謂之醫家四書"
+            },
+            {
+              "text": "魏氏家藏方"
+            },
+            {
+              "text": "宋碧溪魏峴所著十卷寶慶丁亥魏峴自序曰攟先"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右頁首欄字旁訓點選錄",
+              "text": "ハ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "大父文節公先人刑部所錄及峴躬試而效者得方"
+            },
+            {
+              "text": "九千五十有一釐為四十有一門一十卷集方之意"
+            },
+            {
+              "text": "謂有所全活則庶幾區區之心得於此耳有先子刑"
+            },
+            {
+              "text": "部所藏五痔方屢稱有奇效莫不愈矣載在第七卷"
+            },
+            {
+              "text": "衛生家寶方"
+            },
+            {
+              "text": "宋南康朱端章所撰集十二卷有方無論似和劑方"
+            },
+            {
+              "text": "十便良方"
+            },
+            {
+              "text": "宋汾陽郭坦字履道所撰十二卷集方之書無論"
+            },
+            {
+              "text": "百一選方"
+            },
+            {
+              "text": "宋王璆字孟玉山陰人撰集百一選方二十卷有方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左頁四欄部旁訓點選錄",
+              "text": "カ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：原刻綠墨，字旁密有片假名、返點與短頓點，僅取若干清楚者，不當作已全錄。右一「請」形似言青，楊倓字候「子靖」。右八「註」存原形。 左面：左二「釐」及外緣葉碼形待覆。字旁小號訓點僅選錄，左末接後幅。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/26",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000026/full/2600,/0/default.jpg",
+      "label": "26",
+      "file": "26.jpg",
+      "bytes": 1719654,
+      "sha256": "8c97aa303786b6050682c7055ab071008e414f1ed40208fe0688215d537477d4",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "無論"
+            },
+            {
+              "text": "方氏家藏方"
+            },
+            {
+              "text": "宋寧宗慶元間方導字夷吾所輯一卷名方得効者"
+            },
+            {
+              "text": "服藥須知助道方"
+            },
+            {
+              "text": "南宋嘉定間溫大明所著一卷自序曰取五世家傳"
+            },
+            {
+              "text": "名方併平生行醫應効圓散與夫古今聖賢諸方歷"
+            },
+            {
+              "text": "學請問四方名士海上方為是書"
+            },
+            {
+              "text": "御藥院方"
+            },
+            {
+              "text": "宋太宗朝無名氏選集御藥院方十一卷元至元丁"
+            },
+            {
+              "text": "卯翰林學士高鳴序之曰聖朝以三代相生養之道"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右五欄著旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "域民仁壽又立醫師掌醫之政令如周制而加詳焉"
+            },
+            {
+              "text": "太醫許公取御藥院方舊刊正訛補缺傳之余喜其"
+            },
+            {
+              "text": "用心從而叙述之稱裒集大備而功用不淺淺云云"
+            },
+            {
+              "text": "起泰山膚寸而合不崇朝而徧雨乎天下格物君子"
+            },
+            {
+              "text": "請以是觀之"
+            },
+            {
+              "text": "養老新書"
+            },
+            {
+              "text": "宋大德中敬直老人鄒鉉所著四卷元李子貞壽親"
+            },
+            {
+              "text": "養老書詳於舊本李迅字嗣立癰疽方及瑞竹堂方"
+            },
+            {
+              "text": "仁存方僧繼洪濟衆方宋武帝時劉涓子所著鬼遺"
+            },
+            {
+              "text": "方載癰疽金瘡之治王守愚普濟方等皆宋元醫士"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左三欄「從」上方一處片假名選錄",
+              "text": "テ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：方導及「名方得効者」暫依圖。右末「之道」接左頁。 左面：卷名、著者、處方書評論按行。左七「宋大德」照見形，不以年代推改。字旁訓點僅選錄。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/27",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000027/full/2600,/0/default.jpg",
+      "label": "27",
+      "file": "27.jpg",
+      "bytes": 1747824,
+      "sha256": "885c03186683187cc3b4f297eba597d948feecac211e2081ac8fcd0b8d820488",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "之所類聚書有方無發明於醫之道莫有所輕重焉"
+            },
+            {
+              "text": "婦人大全良方"
+            },
+            {
+              "text": "宋陳自明字良甫所著二十四卷明熊宗立作補遺薛"
+            },
+            {
+              "text": "己改換編次自增入治案良甫之微意泯焉學者當"
+            },
+            {
+              "text": "觀其原書以識陳氏之法術而已"
+            },
+            {
+              "text": "濟生方"
+            },
+            {
+              "text": "宋嚴用和字子禮著濟生方十卷其論簡便易直以"
+            },
+            {
+              "text": "脉病證治四者為總括所載方劑有奇効者世以為"
+            },
+            {
+              "text": "至寶用和嘗師廬山劉開字立之受其術云"
+            },
+            {
+              "text": "直指方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右七欄著旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "宋楊士瀛字登父福州三山人號仁齋著證治提綱"
+            },
+            {
+              "text": "醫學真經活人總括嬰兒指要凡二十八卷議論正"
+            },
+            {
+              "text": "確多可法之語明惠齋朱崇正以元明諸家方論為"
+            },
+            {
+              "text": "附遺續貂以狗尾學者勿相混此書有曰人身中有"
+            },
+            {
+              "text": "八萬尸蟲若無卽人身不成不公此言本出于病源"
+            },
+            {
+              "text": "候論可謂不經妄誕矣"
+            },
+            {
+              "text": "易簡方"
+            },
+            {
+              "text": "宋王碩字德父所著增損方二十首㕮咀藥三十品"
+            },
+            {
+              "text": "市肆常貨圓子藥十種以為倉卒應用之備易曰易"
+            },
+            {
+              "text": "則易知簡則易從所以名書也"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左一欄字旁訓點選錄",
+              "text": "ハ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右七「直」照形，右九「開」候，字旁假名及訓點僅選錄。 左面：左五「公」候「云」，左八「㕮」可覆，左九「易」二見照形。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/28",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000028/full/2600,/0/default.jpg",
+      "label": "28",
+      "file": "28.jpg",
+      "bytes": 1818163,
+      "sha256": "f4b5a7b7e05594d5d6a6cb55778874436950fab846a55dad0395dd7438334966",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "續易簡方　察病指南"
+            },
+            {
+              "text": "宋施發字政卿號桂堂著續易簡方以為王碩之書"
+            },
+            {
+              "text": "有失點勘未免大醇而小疵於虛實冷熱之證無所"
+            },
+            {
+              "text": "區別謂之為簡無乃太簡乎學者能考二書以知其"
+            },
+            {
+              "text": "得失則作者微意亦可察也又著察病指南"
+            },
+            {
+              "text": "類沈內翰良方"
+            },
+            {
+              "text": "文獻通考曰沈存仲良方十卷以類子瞻論醫藥雜"
+            },
+            {
+              "text": "說附之合十五卷今所傳初脉說藥辨灸法中論雜"
+            },
+            {
+              "text": "病至婦人小兒都十卷與通考不同且沈存仲所編"
+            },
+            {
+              "text": "靈苑方二十卷未見之類子瞻論聖散子治溫疫効"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右二欄著旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "驗大乖古聖之規則有害於醫治明王肯堂駁之者"
+            },
+            {
+              "text": "是也大凡集方之書以長沙為繩墨而觀之猶野葛"
+            },
+            {
+              "text": "之於嘉穀自不得與良方相混焉則裨益亦不鮮矣"
+            },
+            {
+              "text": "學者思諸"
+            },
+            {
+              "text": "小兒直訣"
+            },
+            {
+              "text": "錢乙字仲陽汶陽人宋史有傳於書無所不窺尤精"
+            },
+            {
+              "text": "嬰孺醫為世專科其所著小兒直訣舊名直訣門人"
+            },
+            {
+              "text": "閻孝忠集之附以己説又著傷寒指微嬰孺論皆亡"
+            },
+            {
+              "text": "失其説肝有相火則有瀉而無補腎為真水則有補"
+            },
+            {
+              "text": "而無瀉皆開發內經之秘者也雖幼幼新書載瘡疹"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左六欄傳旁訓點選錄",
+              "text": "アリ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：大題中留白，欄序照錄。右四「考」候，右六「類」與其下書名連讀。末欄為書目中的方名、評論，未見病原操作。 左面：左二「野葛」作書評譬喻，僅名稱無操作。左六地名「汶陽」候，字旁訓點僅選錄。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/29",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000029/full/2600,/0/default.jpg",
+      "label": "29",
+      "file": "29.jpg",
+      "bytes": 1831593,
+      "sha256": "54646289120ce359821d0b6c8d2edde54f61a1dda4c80b31a2fbe37c5e443315",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "治法未見規則至錢陳二氏法則一定通志有錢氏"
+            },
+            {
+              "text": "小兒方訣十卷益八卷錢氏方論後一卷閻氏附錄"
+            },
+            {
+              "text": "詳己所刪補者非舊"
+            },
+            {
+              "text": "小兒病源論　痘疹方　幼幼方"
+            },
+            {
+              "text": "陳文中字文秀宿州維陽人所撰小兒病源論一卷"
+            },
+            {
+              "text": "於小兒瘡疹尤造其妙著痘疹方又與鄭惠卿同校"
+            },
+            {
+              "text": "幼幼方蓋幼幼方者即治幼名方十卷也第八卷詳"
+            },
+            {
+              "text": "論痘疹隨證施治皆收奇効然以多用燥熱劑為彥"
+            },
+            {
+              "text": "修所擯斥其於痘疹與錢氏治水炭相反後世治痘"
+            },
+            {
+              "text": "疹莫不祖述二氏者蓋痘疹嬰孺命關殀壽所分須"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右五欄撰旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "苦心精究而至機變運用之妙雖其法方自錢陳創"
+            },
+            {
+              "text": "為要莫膠柱執迷而失冐際而已"
+            },
+            {
+              "text": "嬰童百問"
+            },
+            {
+              "text": "嬰童百問十卷相傳以為魯伯嗣學所編輯魯伯嗣"
+            },
+            {
+              "text": "學傳未詳明蕭謙序之謂錢仲陽嬰孺論百編之遺"
+            },
+            {
+              "text": "意而魯伯嗣學所輯錄者王字泰曰保嬰之道其盡"
+            },
+            {
+              "text": "是乎論辨詳審制合精當於是校訂重鍥傳之"
+            },
+            {
+              "text": "醫説"
+            },
+            {
+              "text": "張杲字季明所集凡群籍所載涉于醫事者莫不採"
+            },
+            {
+              "text": "摭此醫家者流之語林世説耳明俞弁著續醫説"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左八欄説旁訓點選錄",
+              "text": "セツ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：同欄三書名間有空白。痘疹文字為書目、歷史療論與不同醫家見解，沒有見到接種、病原取得或傳播方法。右十「殀」左歹右夭，照原形。 左面：左二「冐際」、六「王字泰」及十「俞弁」放大待覆。訓點僅選可辨處。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/30",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000030/full/2600,/0/default.jpg",
+      "label": "30",
+      "file": "30.jpg",
+      "bytes": 1821618,
+      "sha256": "f0f76f48637614819cabd9e9115bce11c830a54af9fe082f3b0d4052e9729c0a",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "繼其餘論學醫者須知之矣"
+            },
+            {
+              "text": "資生經　徐氏鍼灸經"
+            },
+            {
+              "text": "資生經者宋嘉定中王執中所撰鍼經明堂甲乙銅"
+            },
+            {
+              "text": "人千金外臺之鍼灸至要鳩集而一之可謂鍼灸孔"
+            },
+            {
+              "text": "穴不窮之方畧矣銅人俞穴鍼灸經者宋仁宗咸淳"
+            },
+            {
+              "text": "之間鑄銅人為式王惟一編書以傳之銅人後經四"
+            },
+            {
+              "text": "百年及明正統間石刻磨滅銅像昏暗爰命醫臣重"
+            },
+            {
+              "text": "加修正以復舊帝自序其由徐氏鍼灸經是也"
+            },
+            {
+              "text": "瘡瘍全書"
+            },
+            {
+              "text": "宋燕山竇漢卿所著久失其傳明洪瞻巖偶獲宋刻"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右三欄著撰附近訓點選錄",
+              "text": "カ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "原本校之隆慶中竇漢卿裔孫夢麟增訂重梓圖其"
+            },
+            {
+              "text": "形狀識其深淺審明瘡形善惡證候死生申相國為"
+            },
+            {
+              "text": "之序傳之"
+            },
+            {
+              "text": "養生主論"
+            },
+            {
+              "text": "元王隱君所著別號洞虛子名中陽今所傳泰定養"
+            },
+            {
+              "text": "生主論一卷可惜有脱漏關痰證一條雜治常驗之"
+            },
+            {
+              "text": "方滚痰丸一方其詳不可考為徐春甫稱其論養老"
+            },
+            {
+              "text": "童幼甚於資生有助也滚痰丸一方亦有奇績古名"
+            },
+            {
+              "text": "神秘沉香丸醫學綱目載其文曰神秘沉香丸屢獲"
+            },
+            {
+              "text": "大効愈人萬萬但不欲輕傳匪人故以隱語括之證"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左五欄「著」旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右五「咸淳」照見候，不用王惟一傳記改年代。圖錄沿革未見穴位或操作說明。版心葉碼墨線受其他書葉疊壓。 左面：左二「申相國」待覆，左七「為」照字。僅見方名與書目敘述，留原欄。訓點僅選錄。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/31",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000031/full/2600,/0/default.jpg",
+      "label": "31",
+      "file": "31.jpg",
+      "bytes": 1807523,
+      "sha256": "d2c4439bcae7357785063b33e87b7c699e0db2b57693f961fd761803033ad2a1",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "治準繩加百煎藥殊奏奇効袖珍方引聖惠方非也"
+            },
+            {
+              "text": "舊聖惠方無此方失引證已"
+            },
+            {
+              "text": "脉訣刊誤"
+            },
+            {
+              "text": "六朝高陽生脉訣以鄙俚便記誦假名於叔和蔡西"
+            },
+            {
+              "text": "山辨之詳矣朱文公以為偽訣又有崔眞人四言脉"
+            },
+            {
+              "text": "訣未盡理是以戴同父著刊誤論其偽否有裨益於"
+            },
+            {
+              "text": "世也同父名起宗元儒官也明汪機補缺正訛附其"
+            },
+            {
+              "text": "脉説以傳之"
+            },
+            {
+              "text": "龍木論"
+            },
+            {
+              "text": "眼科七十二方之論危亦林得効方載之徐春甫曰"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右六欄著旁訓點選錄",
+              "text": "シ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "龍木論二卷佛經禪師龍樹大士著能眼疾假其説"
+            },
+            {
+              "text": "集七十二種目病之方總論十二條今所傳十卷明"
+            },
+            {
+              "text": "萬曆中黃毅所刊之廣布王問序之首有葆光道人"
+            },
+            {
+              "text": "秘傳眼科論不知葆光道人何人疑撰是書者歟卷"
+            },
+            {
+              "text": "末引病源候論三因方本事方百乙選方等抑黃氏"
+            },
+            {
+              "text": "之所附錄歟其詳不可得而知焉"
+            },
+            {
+              "text": "錄驗方"
+            },
+            {
+              "text": "宋淳熙丙午葉大廉所撰十七卷集方之書無議論"
+            },
+            {
+              "text": "夏子益奇疾方劉禹錫傳信方文彥博藥準考城子"
+            },
+            {
+              "text": "王貺指迷方無名氏海上仙方等宋元士大夫及醫"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左四欄撰旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：右一「百煎藥」依圖為書目上下文，未打印製備參數；右二首候「舊」。 左面：左一「著能」、三「黃毅／王問」、八「葉大廉」、九「文彥博」候覆。左五百乙與前《百一》未統一。訓點僅選錄。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/32",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000032/full/2600,/0/default.jpg",
+      "label": "32",
+      "file": "32.jpg",
+      "bytes": 1866046,
+      "sha256": "67cf7a4f2e4f9e6ad237a8d3ea71f7445c293129117d61aa9641e8146d5c1ced",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "家集方之書也"
+            },
+            {
+              "text": "本朝古醫書"
+            },
+            {
+              "text": "大同類聚方一百卷安倍眞貞出雲廣貞奉勅撰以"
+            },
+            {
+              "text": "逸已久僅傳缺本醫心法二十卷丹波康頼撰倭名"
+            },
+            {
+              "text": "本草一卷源輔仁奉勅撰是一書希世所傳醫綱本"
+            },
+            {
+              "text": "記二卷舊事記所載疑是偽書藥經大素一卷和氣"
+            },
+            {
+              "text": "廣世撰今所存可疑萬安方五十卷闕一本頓醫抄"
+            },
+            {
+              "text": "十卷梶原性全撰引用古方書凡一百有餘部古方"
+            },
+            {
+              "text": "之藪澤可謂孫王之流不亦奇哉蓋吾　東上古之"
+            },
+            {
+              "text": "神聖大已貴少彦名肇興醫藥邈乎寥矣哉其揆同"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右八欄撰旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "農黃也以論已自史籍以來明醫國工不為不多吉"
+            },
+            {
+              "text": "田連宜好聲最精醫術和銅中為醫博士天平寶字"
+            },
+            {
+              "text": "初始使陰陽醫道天文歷數諸博士教授弟子宜為"
+            },
+            {
+              "text": "其首任典藥頭男古麿呂傳業為內藥正紀長谷雄"
+            },
+            {
+              "text": "之孫國守明醫之名聞于天下菅原梶成素練醫術"
+            },
+            {
+              "text": "隨遣唐使以入唐留學歸朝為侍醫鳴乎篤矣哉紀"
+            },
+            {
+              "text": "夏井聰慧雋異醫術精妙且以至孝聞又旁善書野"
+            },
+            {
+              "text": "參議稱其用筆之妙謂為書聖和氣成貞起號之術"
+            },
+            {
+              "text": "世以稱和扁鵲高麗請醫於　本朝招丹波雅忠雖"
+            },
+            {
+              "text": "廷議不應和緩之名響者三韓丹波忠明之神術鍼"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左二欄「連」旁選錄假名",
+              "text": "ムラジ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：本朝古醫書新題。右四「醫心法」「頼」照見，五至六「醫綱本記」跨欄，右九「吾　東」留空。 左面：左二「好聲」、四「古麿呂」、八「成貞起號」待覆。左九「於　本朝」留空。字旁訓點僅選錄。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/33",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000033/full/2600,/0/default.jpg",
+      "label": "33",
+      "file": "33.jpg",
+      "bytes": 1857733,
+      "sha256": "69cf376f7b72cd81d0214fe152da5aff3f2ace64626c43fa52467beff71210fe",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "medical-education-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "瓜中之蛇眼於藤相公之座上伎之妙絶徐文伯一"
+            },
+            {
+              "text": "鍼下妊子或莫是過者深江輔仁丹波頼經良醫之"
+            },
+            {
+              "text": "名著于海內頼行以女醫顯丹波篤基醫名鳴于世"
+            },
+            {
+              "text": "長直治　後醍醐帝不豫奏霍然之績沐恩遇大村"
+            },
+            {
+              "text": "直福古醫術精巧諸醫所不及　仁明帝勅令撰治"
+            },
+            {
+              "text": "瘡記物部廣泉俊才卓犖藥石之道當時獨步撰攝"
+            },
+            {
+              "text": "養要訣二十卷出雲廣貞長于醫術男菅原峯嗣之"
+            },
+            {
+              "text": "伎精妙更過之奉　勅與諸醫撰定金蘭方五十卷"
+            },
+            {
+              "text": "和氣廣世醫名籍籍撰藥經大素小野藏根集註太"
+            },
+            {
+              "text": "素經二十卷廣貞難經開委源輔仁養生鈔掌中方"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右八欄撰旁訓點選錄",
+              "text": "ス",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "細川勝元靈蘭集今皆失其傳石渠天祿或有藏之"
+            },
+            {
+              "text": "莫搜索之優惜哉室町氏時有板坂宗德太醫淨運"
+            },
+            {
+              "text": "丹波頼直土岐片岡導道三喜等家方相傳不遑枚"
+            },
+            {
+              "text": "舉又有甲斐德本梅花無盡藏作一家方寶玉二丹"
+            },
+            {
+              "text": "攻擊萬病流毒於蒼生傖父之瞽説正足賊夫人子"
+            },
+            {
+              "text": "是何以傳為逮三氏之學得導道一時乘風雲之會"
+            },
+            {
+              "text": "俊才良醫多出其門也人皆喜新舍古金元醫流靡"
+            },
+            {
+              "text": "然為風於是醫道一變古法為滅裂昇平日久醫學"
+            },
+            {
+              "text": "漸開有稍稍覺其非者於是芳恂益丹水友松之學"
+            },
+            {
+              "text": "迭起相軋雖其言人人殊醫風亦漸振人識所嚮復"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左外版心",
+              "text": "學範卷二",
+              "column_anchor": 10,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "左七欄其門附近訓點選錄",
+              "text": "ニ",
+              "column_anchor": 10,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：四、五、八欄存抬頭或跨字小空；人物與書目沿原欄。王朝醫事敘述未見具體傷害步驟。 左面：左二優候、八「昇」依圖、九「芳恂益／丹水／友松」暫按詞組。字旁訓點僅選錄。"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/34",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000034/full/2600,/0/default.jpg",
+      "label": "34",
+      "file": "34.jpg",
+      "bytes": 1543578,
+      "sha256": "ae7d9636e74f0fcdefa3f31c5760fbfd9619e4f7834f4cc3b9e0fdc6f0ef4b23",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "volume-ending",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "古之説日出月新紛紛群議遂開爭端學徒聚訟造"
+            },
+            {
+              "text": "説相詆排醫籍之多汗牛充棟豈有窮已乎要之唯"
+            },
+            {
+              "text": "擇經伯樂一顧者莫分鑣背馳皆循其轍則法不必"
+            },
+            {
+              "text": "拘而不踰矩治不期工而莫不愈古人之機要死乎"
+            },
+            {
+              "text": "莫不畢肖也學者其思諸"
+            },
+            {
+              "text": "醫學院學範卷之二終"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右外版心",
+              "text": "學範卷二",
+              "column_anchor": 6,
+              "color": "unknown"
+            },
+            {
+              "type": "printed-small-text",
+              "location": "右四欄「拘」附近假名選錄",
+              "text": "ラ",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左上藏書貼籤",
+              "text": "特1／406",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "特1",
+                "406"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "貼籤中段淡朱",
+              "text": "□",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "貼籤中段淡朱",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "右面：右頁正文右起五欄，後留四欄可見反面褪墨，最內欄清楚印卷終。淡反影只記，不重複轉錄。訓點僅選錄。 左面：後部空頁，貼籤上下數字可辨。紙面散墨、磨痕及破損另記，不把攝影量尺當正文。"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/35",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000035/full/2600,/0/default.jpg",
+      "label": "35",
+      "file": "35.jpg",
+      "bytes": 1274768,
+      "sha256": "b6efbaad1aff130d1df9685da9ca139c34b446cf740ea154178474710f16bc3c",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": [
+            {
+              "type": "printed-small-text",
+              "location": "左上藏書貼籤",
+              "text": "特1／406",
+              "column_anchor": null,
+              "color": "unknown",
+              "lines": [
+                "特1",
+                "406"
+              ]
+            },
+            {
+              "type": "printed-small-text",
+              "location": "貼籤中段淡朱",
+              "text": "□",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "side": "left",
+          "column": null,
+          "context": "貼籤中段淡朱",
+          "candidates": [],
+          "note": "此處墨跡或構件不清，以□保留未定字。"
+        }
+      ],
+      "observations": "右面：卷尾後護葉，紙色褐，有透墨和書口邊緣的綠墨，未見本面欄文。 左面：後襯頁，橙框藏書標之外未見主文。拍攝尺與館方標牌在書外。"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://dl.ndl.go.jp/api/iiif/2555806/canvas/36",
+      "image_url": "https://dl.ndl.go.jp/api/iiif/2555806/R0000036/full/2600,/0/default.jpg",
+      "label": "36",
+      "file": "36.jpg",
+      "bytes": 1187590,
+      "sha256": "163e3f677d8eafd0e1b88caaa786457cad3c33f099f326136aaec52d68195384",
+      "native_width": 6935,
+      "native_height": 5762,
+      "downloaded_width": 2600,
+      "downloaded_height": 2160,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：外後封，右側見紅褐色紋樣，靠左書脊方向有四處線裝穿孔；無正面書題或可讀文字。影像左半為攝影背景。"
+    }
+  ]
+}

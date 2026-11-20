@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite this version and the source copy.
+title: '醫學院學範卷二（江戶時代刊本，日本國立國會圖書館 特1-406） / Igakuin gakuhan, maki 2 [Rules of the Medical
+  Academy, volume two]: Transcription Dataset'
+type: dataset
+version: 0.1.0
+authors:
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+repository-code: https://github.com/poplolioi11/ndl2555806-igakuin-gakuhan-volume-2
+keywords:
+- 醫學院學範
+- 医学院学範
+- Igakuin gakuhan
+- Hata Ryūan
+- 畑柳安
+- 醫學講習
+- medical education
+- Edo
+- Kanbun
+- history of medicine
